@@ -1,0 +1,3617 @@
+[
+  {
+    "id": "PAB4048",
+    "bondNumber": "PAB4048",
+    "uin": "UIN-2024-1001",
+    "contractor": "ABC Infra",
+    "contractorId": "contractor-abc",
+    "beneficiary": "NHAI",
+    "progress": 62,
+    "lastUpdate": "2024-10-12",
+    "nextMilestone": "Rafting",
+    "milestoneDueDate": "2024-10-30",
+    "delay": 18,
+    "riskBand": "Amber",
+    "invoke": false,
+    "dispute": true,
+    "premium": "Due",
+    "collateral": "OK",
+    "reinsurance": "On NIA's net (%)",
+    "productType": "Performance Bond",
+    "tenor": 24,
+    "claimPeriodRemaining": 180,
+    "woNumber": "WO-2024-001",
+    "timeline": [
+      {
+        "date": "2024-10-12",
+        "event": "Progress 62% (cert)",
+        "description": "Certificate received"
+      },
+      {
+        "date": "2024-10-02",
+        "event": "Payment delay",
+        "description": "Payment delayed by 18 days"
+      },
+      {
+        "date": "2024-09-28",
+        "event": "Site inspection set",
+        "description": "Inspection scheduled"
+      }
+    ],
+    "covenants": {
+      "collateral": "OK",
+      "premium": "Due",
+      "reinsurance": "On Reinsurance (%)"
+    }
+  },
+  {
+    "id": "BDB4523",
+    "bondNumber": "BDB4523",
+    "uin": "UIN-2024-1002",
+    "contractor": "XYZ Construction",
+    "contractorId": "contractor-xyz",
+    "beneficiary": "State PWD",
+    "progress": 85,
+    "lastUpdate": "2024-10-02",
+    "nextMilestone": "Slab",
+    "milestoneDueDate": "2024-10-15",
+    "delay": 0,
+    "riskBand": "Green",
+    "invoke": false,
+    "dispute": false,
+    "premium": "Paid",
+    "collateral": "OK",
+    "reinsurance": "On NIA's net (%)",
+    "productType": "Bid Bond",
+    "tenor": 12,
+    "claimPeriodRemaining": 120,
+    "woNumber": "WO-2024-002",
+    "timeline": [
+      {
+        "date": "2024-10-02",
+        "event": "Progress 85% (cert)",
+        "description": "On schedule"
+      },
+      {
+        "date": "2024-09-15",
+        "event": "Milestone completed",
+        "description": "Foundation work completed"
+      }
+    ],
+    "covenants": {
+      "collateral": "OK",
+      "premium": "Paid",
+      "reinsurance": "On Reinsurance (%)"
+    }
+  },
+  {
+    "id": "ADB3901",
+    "bondNumber": "ADB3901",
+    "uin": "UIN-2024-1003",
+    "contractor": "RITES Ltd",
+    "contractorId": "contractor-rites",
+    "beneficiary": "Railway Board",
+    "progress": 40,
+    "lastUpdate": "2024-09-20",
+    "nextMilestone": "Mobilization",
+    "milestoneDueDate": "2024-10-20",
+    "delay": -32,
+    "riskBand": "Red",
+    "invoke": true,
+    "dispute": true,
+    "premium": "Due",
+    "collateral": "Pending",
+    "reinsurance": "On Reinsurance (%)",
+    "productType": "Advance Payment Bond",
+    "tenor": 36,
+    "claimPeriodRemaining": 300,
+    "woNumber": "WO-2024-003",
+    "timeline": [
+      {
+        "date": "2024-09-20",
+        "event": "Progress 40%",
+        "description": "Behind schedule"
+      },
+      {
+        "date": "2024-09-10",
+        "event": "Dispute raised",
+        "description": "Contractor dispute"
+      },
+      {
+        "date": "2024-09-05",
+        "event": "Invoke notice sent",
+        "description": "Bond invoked"
+      }
+    ],
+    "covenants": {
+      "collateral": "Pending",
+      "premium": "Due",
+      "reinsurance": "On Reinsurance (%)"
+    }
+  },
+  {
+    "id": "PAB7724",
+    "bondNumber": "PAB7724",
+    "uin": "UIN-2024-1004",
+    "contractor": "L&T Construction",
+    "contractorId": "contractor-lt",
+    "beneficiary": "Smart City Corp",
+    "progress": 75,
+    "lastUpdate": "2024-10-10",
+    "nextMilestone": "Structural Work",
+    "milestoneDueDate": "2024-11-05",
+    "delay": 5,
+    "riskBand": "Amber",
+    "invoke": false,
+    "dispute": false,
+    "premium": "Paid",
+    "collateral": "OK",
+    "reinsurance": "On NIA's net (%)",
+    "productType": "Performance Bond",
+    "tenor": 30,
+    "claimPeriodRemaining": 240,
+    "woNumber": "WO-2024-004",
+    "timeline": [
+      {
+        "date": "2024-10-10",
+        "event": "Progress 75% (cert)",
+        "description": "On track"
+      },
+      {
+        "date": "2024-09-25",
+        "event": "Payment received",
+        "description": "Milestone payment"
+      }
+    ],
+    "covenants": {
+      "collateral": "OK",
+      "premium": "Paid",
+      "reinsurance": "On Reinsurance (%)"
+    }
+  },
+  {
+    "id": "BDB2121",
+    "bondNumber": "BDB2121",
+    "uin": "UIN-2024-1005",
+    "contractor": "IRCON International",
+    "contractorId": "contractor-ircon",
+    "beneficiary": "Metro Rail",
+    "progress": 90,
+    "lastUpdate": "2024-10-15",
+    "nextMilestone": "Final Testing",
+    "milestoneDueDate": "2024-10-25",
+    "delay": -10,
+    "riskBand": "Green",
+    "invoke": false,
+    "dispute": false,
+    "premium": "Paid",
+    "collateral": "OK",
+    "reinsurance": "On NIA's net (%)",
+    "productType": "Bid Bond",
+    "tenor": 18,
+    "claimPeriodRemaining": 150,
+    "woNumber": "WO-2024-005",
+    "timeline": [
+      {
+        "date": "2024-10-15",
+        "event": "Progress 90% (cert)",
+        "description": "Ahead of schedule"
+      },
+      {
+        "date": "2024-10-01",
+        "event": "Quality check passed",
+        "description": "All tests passed"
+      }
+    ],
+    "covenants": {
+      "collateral": "OK",
+      "premium": "Paid",
+      "reinsurance": "On Reinsurance (%)"
+    }
+  },
+  {
+    "id": "PAB1050",
+    "bondNumber": "PAB1050",
+    "uin": "UIN-2024-1006",
+    "contractor": "BHEL",
+    "contractorId": "contractor-bhel",
+    "beneficiary": "NTPC",
+    "progress": 55,
+    "lastUpdate": "2024-10-08",
+    "nextMilestone": "Equipment Installation",
+    "milestoneDueDate": "2024-11-10",
+    "delay": 12,
+    "riskBand": "Amber",
+    "invoke": false,
+    "dispute": true,
+    "premium": "Due",
+    "collateral": "OK",
+    "reinsurance": "On Reinsurance (%)",
+    "productType": "Performance Bond",
+    "tenor": 28,
+    "claimPeriodRemaining": 220,
+    "woNumber": "WO-2024-006",
+    "timeline": [
+      {
+        "date": "2024-10-08",
+        "event": "Progress 55% (cert)",
+        "description": "Slight delay"
+      },
+      {
+        "date": "2024-09-22",
+        "event": "Equipment procurement delay",
+        "description": "Supplier delay"
+      }
+    ],
+    "covenants": {
+      "collateral": "OK",
+      "premium": "Due",
+      "reinsurance": "On NIA's net (%)"
+    }
+  },
+  {
+    "id": "BDB8394",
+    "bondNumber": "BDB8394",
+    "uin": "UIN-2024-1007",
+    "contractor": "GMR Infrastructure",
+    "contractorId": "contractor-gmr",
+    "beneficiary": "Airports Authority",
+    "progress": 92,
+    "lastUpdate": "2024-10-18",
+    "nextMilestone": "Commissioning",
+    "milestoneDueDate": "2024-10-28",
+    "delay": -15,
+    "riskBand": "Green",
+    "invoke": false,
+    "dispute": false,
+    "premium": "Paid",
+    "collateral": "OK",
+    "reinsurance": "On Reinsurance (%)",
+    "productType": "Bid Bond",
+    "tenor": 20,
+    "claimPeriodRemaining": 160,
+    "woNumber": "WO-2024-007",
+    "timeline": [
+      {
+        "date": "2024-10-18",
+        "event": "Progress 92% (cert)",
+        "description": "Excellent progress"
+      },
+      {
+        "date": "2024-10-05",
+        "event": "Safety audit passed",
+        "description": "All clearances received"
+      }
+    ],
+    "covenants": {
+      "collateral": "OK",
+      "premium": "Paid",
+      "reinsurance": "On NIA's net (%)"
+    }
+  },
+  {
+    "id": "ADB8671",
+    "bondNumber": "ADB8671",
+    "uin": "UIN-2024-1008",
+    "contractor": "Gammon India",
+    "contractorId": "contractor-gammon",
+    "beneficiary": "Mumbai Metro",
+    "progress": 35,
+    "lastUpdate": "2024-09-15",
+    "nextMilestone": "Foundation",
+    "milestoneDueDate": "2024-10-30",
+    "delay": 25,
+    "riskBand": "Red",
+    "invoke": false,
+    "dispute": true,
+    "premium": "Due",
+    "collateral": "Pending",
+    "reinsurance": "On NIA's net (%)",
+    "productType": "Advance Payment Bond",
+    "tenor": 32,
+    "claimPeriodRemaining": 280,
+    "woNumber": "WO-2024-008",
+    "timeline": [
+      {
+        "date": "2024-09-15",
+        "event": "Progress 35%",
+        "description": "Significant delay"
+      },
+      {
+        "date": "2024-09-01",
+        "event": "Material shortage",
+        "description": "Supply chain issues"
+      }
+    ],
+    "covenants": {
+      "collateral": "Pending",
+      "premium": "Due",
+      "reinsurance": "On Reinsurance (%)"
+    }
+  },
+  {
+    "id": "PAB5635",
+    "bondNumber": "PAB5635",
+    "uin": "UIN-2024-1009",
+    "contractor": "Siemens India",
+    "contractorId": "contractor-siemens",
+    "beneficiary": "Power Grid Corp",
+    "progress": 78,
+    "lastUpdate": "2024-10-14",
+    "nextMilestone": "Grid Integration",
+    "milestoneDueDate": "2024-11-08",
+    "delay": 3,
+    "riskBand": "Amber",
+    "invoke": false,
+    "dispute": false,
+    "premium": "Paid",
+    "collateral": "OK",
+    "reinsurance": "On NIA's net (%)",
+    "productType": "Performance Bond",
+    "tenor": 26,
+    "claimPeriodRemaining": 200,
+    "woNumber": "WO-2024-009",
+    "timeline": [
+      {
+        "date": "2024-10-14",
+        "event": "Progress 78% (cert)",
+        "description": "On track"
+      },
+      {
+        "date": "2024-09-30",
+        "event": "Equipment installation",
+        "description": "Phase 2 complete"
+      }
+    ],
+    "covenants": {
+      "collateral": "OK",
+      "premium": "Paid",
+      "reinsurance": "On Reinsurance (%)"
+    }
+  },
+  {
+    "id": "BDB3146",
+    "bondNumber": "BDB3146",
+    "uin": "UIN-2024-1010",
+    "contractor": "IVRCL",
+    "contractorId": "contractor-ivrcl",
+    "beneficiary": "Highways Authority",
+    "progress": 88,
+    "lastUpdate": "2024-10-16",
+    "nextMilestone": "Final Layer",
+    "milestoneDueDate": "2024-10-30",
+    "delay": -8,
+    "riskBand": "Green",
+    "invoke": false,
+    "dispute": false,
+    "premium": "Paid",
+    "collateral": "OK",
+    "reinsurance": "On Reinsurance (%)",
+    "productType": "Bid Bond",
+    "tenor": 22,
+    "claimPeriodRemaining": 175,
+    "woNumber": "WO-2024-010",
+    "timeline": [
+      {
+        "date": "2024-10-16",
+        "event": "Progress 88% (cert)",
+        "description": "Ahead of schedule"
+      },
+      {
+        "date": "2024-10-02",
+        "event": "Quality inspection passed",
+        "description": "Road quality approved"
+      }
+    ],
+    "covenants": {
+      "collateral": "OK",
+      "premium": "Paid",
+      "reinsurance": "On Reinsurance (%)"
+    }
+  },
+  {
+    "id": "ADB6629",
+    "bondNumber": "ADB6629",
+    "uin": "UIN-2024-1011",
+    "contractor": "HCC Ltd",
+    "contractorId": "contractor-hcc",
+    "beneficiary": "Delhi Metro",
+    "progress": 45,
+    "lastUpdate": "2024-09-25",
+    "nextMilestone": "Tunnel Boring",
+    "milestoneDueDate": "2024-11-15",
+    "delay": 20,
+    "riskBand": "Red",
+    "invoke": true,
+    "dispute": true,
+    "premium": "Due",
+    "collateral": "Pending",
+    "reinsurance": "On NIA's net (%)",
+    "productType": "Advance Payment Bond",
+    "tenor": 34,
+    "claimPeriodRemaining": 310,
+    "woNumber": "WO-2024-011",
+    "timeline": [
+      {
+        "date": "2024-09-25",
+        "event": "Progress 45%",
+        "description": "Behind schedule"
+      },
+      {
+        "date": "2024-09-10",
+        "event": "TBM maintenance required",
+        "description": "Equipment issue"
+      },
+      {
+        "date": "2024-09-05",
+        "event": "Invoke notice issued",
+        "description": "Bond invoked"
+      }
+    ],
+    "covenants": {
+      "collateral": "Pending",
+      "premium": "Due",
+      "reinsurance": "On Reinsurance (%)"
+    }
+  },
+  {
+    "id": "PAB3258",
+    "bondNumber": "PAB3258",
+    "uin": "UIN-2024-1012",
+    "contractor": "Punj Lloyd",
+    "contractorId": "contractor-punj",
+    "beneficiary": "ONGC",
+    "progress": 68,
+    "lastUpdate": "2024-10-11",
+    "nextMilestone": "Pipeline Laying",
+    "milestoneDueDate": "2024-11-20",
+    "delay": 8,
+    "riskBand": "Amber",
+    "invoke": false,
+    "dispute": false,
+    "premium": "Paid",
+    "collateral": "OK",
+    "reinsurance": "On Reinsurance (%)",
+    "productType": "Performance Bond",
+    "tenor": 24,
+    "claimPeriodRemaining": 185,
+    "woNumber": "WO-2024-012",
+    "timeline": [
+      {
+        "date": "2024-10-11",
+        "event": "Progress 68% (cert)",
+        "description": "Minor delay"
+      },
+      {
+        "date": "2024-09-28",
+        "event": "Right of way cleared",
+        "description": "Land acquisition complete"
+      }
+    ],
+    "covenants": {
+      "collateral": "OK",
+      "premium": "Paid",
+      "reinsurance": "On NIA's net (%)"
+    }
+  },
+  {
+    "id": "BDB2011",
+    "bondNumber": "BDB2011",
+    "uin": "UIN-2024-1013",
+    "contractor": "Reliance Infrastructure",
+    "contractorId": "contractor-reliance",
+    "beneficiary": "Mumbai Port Trust",
+    "progress": 95,
+    "lastUpdate": "2024-10-20",
+    "nextMilestone": "Handover",
+    "milestoneDueDate": "2024-10-25",
+    "delay": -20,
+    "riskBand": "Green",
+    "invoke": false,
+    "dispute": false,
+    "premium": "Paid",
+    "collateral": "OK",
+    "reinsurance": "On Reinsurance (%)",
+    "productType": "Bid Bond",
+    "tenor": 16,
+    "claimPeriodRemaining": 140,
+    "woNumber": "WO-2024-013",
+    "timeline": [
+      {
+        "date": "2024-10-20",
+        "event": "Progress 95% (cert)",
+        "description": "Near completion"
+      },
+      {
+        "date": "2024-10-10",
+        "event": "Final inspection scheduled",
+        "description": "Ready for handover"
+      }
+    ],
+    "covenants": {
+      "collateral": "OK",
+      "premium": "Paid",
+      "reinsurance": "On Reinsurance (%)"
+    }
+  },
+  {
+    "id": "PAB8372",
+    "bondNumber": "PAB8372",
+    "uin": "UIN-2024-1014",
+    "contractor": "Tata Projects",
+    "contractorId": "contractor-tata",
+    "beneficiary": "Bangalore Metro",
+    "progress": 82,
+    "lastUpdate": "2024-10-13",
+    "nextMilestone": "Station Construction",
+    "milestoneDueDate": "2024-11-12",
+    "delay": -2,
+    "riskBand": "Green",
+    "invoke": false,
+    "dispute": false,
+    "premium": "Paid",
+    "collateral": "OK",
+    "reinsurance": "On Reinsurance (%)",
+    "productType": "Performance Bond",
+    "tenor": 28,
+    "claimPeriodRemaining": 225,
+    "woNumber": "WO-2024-014",
+    "timeline": [
+      {
+        "date": "2024-10-13",
+        "event": "Progress 82% (cert)",
+        "description": "On schedule"
+      },
+      {
+        "date": "2024-09-29",
+        "event": "Station design approved",
+        "description": "Architectural clearance"
+      }
+    ],
+    "covenants": {
+      "collateral": "OK",
+      "premium": "Paid",
+      "reinsurance": "On Reinsurance (%)"
+    }
+  },
+  {
+    "id": "ADB6119",
+    "bondNumber": "ADB6119",
+    "uin": "UIN-2024-1015",
+    "contractor": "Nagarjuna Construction",
+    "contractorId": "contractor-nagarjuna",
+    "beneficiary": "APGENCO",
+    "progress": 50,
+    "lastUpdate": "2024-10-05",
+    "nextMilestone": "Boiler Installation",
+    "milestoneDueDate": "2024-11-25",
+    "delay": 15,
+    "riskBand": "Amber",
+    "invoke": false,
+    "dispute": true,
+    "premium": "Due",
+    "collateral": "OK",
+    "reinsurance": "On NIA's net (%)",
+    "productType": "Advance Payment Bond",
+    "tenor": 30,
+    "claimPeriodRemaining": 250,
+    "woNumber": "WO-2024-015",
+    "timeline": [
+      {
+        "date": "2024-10-05",
+        "event": "Progress 50% (cert)",
+        "description": "Moderate delay"
+      },
+      {
+        "date": "2024-09-20",
+        "event": "Equipment import delayed",
+        "description": "Customs clearance pending"
+      }
+    ],
+    "covenants": {
+      "collateral": "OK",
+      "premium": "Due",
+      "reinsurance": "On Reinsurance (%)"
+    }
+  },
+  {
+    "id": "BDB8151",
+    "bondNumber": "BDB8151",
+    "uin": "UIN-2024-1016",
+    "contractor": "Shapoorji Pallonji",
+    "contractorId": "contractor-shapoorji",
+    "beneficiary": "Chennai Metro",
+    "progress": 87,
+    "lastUpdate": "2024-10-17",
+    "nextMilestone": "Track Laying",
+    "milestoneDueDate": "2024-11-02",
+    "delay": -5,
+    "riskBand": "Green",
+    "invoke": false,
+    "dispute": false,
+    "premium": "Paid",
+    "collateral": "OK",
+    "reinsurance": "On Reinsurance (%)",
+    "productType": "Bid Bond",
+    "tenor": 21,
+    "claimPeriodRemaining": 170,
+    "woNumber": "WO-2024-016",
+    "timeline": [
+      {
+        "date": "2024-10-17",
+        "event": "Progress 87% (cert)",
+        "description": "Ahead of schedule"
+      },
+      {
+        "date": "2024-10-03",
+        "event": "Track alignment verified",
+        "description": "Survey complete"
+      }
+    ],
+    "covenants": {
+      "collateral": "OK",
+      "premium": "Paid",
+      "reinsurance": "On NIA's net (%)"
+    }
+  },
+  {
+    "id": "PAB1235",
+    "bondNumber": "PAB1235",
+    "uin": "UIN-2024-1017",
+    "contractor": "Simplex Infrastructure",
+    "contractorId": "contractor-simplex",
+    "beneficiary": "Odisha PWD",
+    "progress": 42,
+    "lastUpdate": "2024-09-18",
+    "nextMilestone": "Culvert Construction",
+    "milestoneDueDate": "2024-11-08",
+    "delay": 22,
+    "riskBand": "Red",
+    "invoke": false,
+    "dispute": true,
+    "premium": "Due",
+    "collateral": "Pending",
+    "reinsurance": "On Reinsurance (%)",
+    "productType": "Performance Bond",
+    "tenor": 26,
+    "claimPeriodRemaining": 210,
+    "woNumber": "WO-2024-017",
+    "timeline": [
+      {
+        "date": "2024-09-18",
+        "event": "Progress 42%",
+        "description": "Significant delay"
+      },
+      {
+        "date": "2024-09-05",
+        "event": "Monsoon delay",
+        "description": "Weather constraints"
+      }
+    ],
+    "covenants": {
+      "collateral": "Pending",
+      "premium": "Due",
+      "reinsurance": "On Reinsurance (%)"
+    }
+  },
+  {
+    "id": "PAB5547",
+    "bondNumber": "PAB5547",
+    "uin": "UIN-2024-1018",
+    "contractor": "JMC Projects",
+    "contractorId": "contractor-jmc",
+    "beneficiary": "Hyderabad Metro",
+    "progress": 73,
+    "lastUpdate": "2024-10-09",
+    "nextMilestone": "Electrification",
+    "milestoneDueDate": "2024-11-18",
+    "delay": 6,
+    "riskBand": "Amber",
+    "invoke": false,
+    "dispute": false,
+    "premium": "Paid",
+    "collateral": "OK",
+    "reinsurance": "On NIA's net (%)",
+    "productType": "Performance Bond",
+    "tenor": 25,
+    "claimPeriodRemaining": 195,
+    "woNumber": "WO-2024-018",
+    "timeline": [
+      {
+        "date": "2024-10-09",
+        "event": "Progress 73% (cert)",
+        "description": "Minor delay"
+      },
+      {
+        "date": "2024-09-26",
+        "event": "Electrical equipment received",
+        "description": "Procurement complete"
+      }
+    ],
+    "covenants": {
+      "collateral": "OK",
+      "premium": "Paid",
+      "reinsurance": "On Reinsurance (%)"
+    }
+  },
+  {
+    "id": "BDB2150",
+    "bondNumber": "BDB2150",
+    "uin": "UIN-2024-1019",
+    "contractor": "ITD Cementation",
+    "contractorId": "contractor-itd",
+    "beneficiary": "Kolkata Metro",
+    "progress": 91,
+    "lastUpdate": "2024-10-19",
+    "nextMilestone": "System Testing",
+    "milestoneDueDate": "2024-10-27",
+    "delay": -12,
+    "riskBand": "Green",
+    "invoke": false,
+    "dispute": false,
+    "premium": "Paid",
+    "collateral": "OK",
+    "reinsurance": "On Reinsurance (%)",
+    "productType": "Bid Bond",
+    "tenor": 19,
+    "claimPeriodRemaining": 155,
+    "woNumber": "WO-2024-019",
+    "timeline": [
+      {
+        "date": "2024-10-19",
+        "event": "Progress 91% (cert)",
+        "description": "Excellent progress"
+      },
+      {
+        "date": "2024-10-06",
+        "event": "System integration complete",
+        "description": "All systems operational"
+      }
+    ],
+    "covenants": {
+      "collateral": "OK",
+      "premium": "Paid",
+      "reinsurance": "On NIA's net (%)"
+    }
+  },
+  {
+    "id": "ADB3380",
+    "bondNumber": "ADB3380",
+    "uin": "UIN-2024-1020",
+    "contractor": "Afcons Infrastructure",
+    "contractorId": "contractor-afcons",
+    "beneficiary": "Gujarat Energy",
+    "progress": 58,
+    "lastUpdate": "2024-10-07",
+    "nextMilestone": "Power Plant Setup",
+    "milestoneDueDate": "2024-11-15",
+    "delay": 10,
+    "riskBand": "Amber",
+    "invoke": false,
+    "dispute": true,
+    "premium": "Due",
+    "collateral": "OK",
+    "reinsurance": "On Reinsurance (%)",
+    "productType": "Advance Payment Bond",
+    "tenor": 29,
+    "claimPeriodRemaining": 235,
+    "woNumber": "WO-2024-020",
+    "timeline": [
+      {
+        "date": "2024-10-07",
+        "event": "Progress 58% (cert)",
+        "description": "Moderate delay"
+      },
+      {
+        "date": "2024-09-23",
+        "event": "Turbine delivery delayed",
+        "description": "Supplier issues"
+      }
+    ],
+    "covenants": {
+      "collateral": "OK",
+      "premium": "Due",
+      "reinsurance": "On NIA's net (%)"
+    }
+  },
+  {
+    "id": "ADB7185",
+    "bondNumber": "ADB7185",
+    "uin": "UIN-2024-1021",
+    "contractor": "Reliance Infrastructure",
+    "contractorId": "contractor-reliance-infrastructure",
+    "beneficiary": "NHIDCL",
+    "progress": 40,
+    "lastUpdate": "2024-09-19",
+    "nextMilestone": "Commissioning",
+    "milestoneDueDate": "2024-11-12",
+    "delay": 28,
+    "riskBand": "Red",
+    "invoke": true,
+    "dispute": false,
+    "premium": "Due",
+    "collateral": "Insufficient",
+    "reinsurance": "On NIA's net (%)",
+    "productType": "Advance Bond",
+    "tenor": 6,
+    "claimPeriodRemaining": 269,
+    "woNumber": "WO-2024-1021",
+    "timeline": [
+      {
+        "date": "2024-09-19",
+        "event": "Progress 40% (cert)",
+        "description": "Certificate received"
+      }
+    ],
+    "covenants": {
+      "collateral": "OK",
+      "premium": "Paid",
+      "reinsurance": "On NIA's net (%)"
+    }
+  },
+  {
+    "id": "BDB7127",
+    "bondNumber": "BDB7127",
+    "uin": "UIN-2024-1022",
+    "contractor": "GMR Infrastructure",
+    "contractorId": "contractor-gmr-infrastructure",
+    "beneficiary": "PGCIL",
+    "progress": 93,
+    "lastUpdate": "2024-09-01",
+    "nextMilestone": "Structural Work",
+    "milestoneDueDate": "2024-09-26",
+    "delay": -11,
+    "riskBand": "Green",
+    "invoke": false,
+    "dispute": false,
+    "premium": "Paid",
+    "collateral": "OK",
+    "reinsurance": "On NIA's net (%)",
+    "productType": "Bid Bond",
+    "tenor": 24,
+    "claimPeriodRemaining": 339,
+    "woNumber": "WO-2024-1022",
+    "timeline": [
+      {
+        "date": "2024-09-01",
+        "event": "Progress 93% (cert)",
+        "description": "Ahead of schedule"
+      }
+    ],
+    "covenants": {
+      "collateral": "Insufficient",
+      "premium": "Paid",
+      "reinsurance": "On Reinsurance (%)"
+    }
+  },
+  {
+    "id": "RTB7913",
+    "bondNumber": "RTB7913",
+    "uin": "UIN-2024-1023",
+    "contractor": "Gammon India",
+    "contractorId": "contractor-gammon-india",
+    "beneficiary": "Mecon Limited",
+    "progress": 86,
+    "lastUpdate": "2024-09-11",
+    "nextMilestone": "Handover",
+    "milestoneDueDate": "2024-10-17",
+    "delay": 4,
+    "riskBand": "Amber",
+    "invoke": false,
+    "dispute": true,
+    "premium": "Overdue",
+    "collateral": "Pending",
+    "reinsurance": "On NIA's net (%)",
+    "productType": "Retention Bond",
+    "tenor": 72,
+    "claimPeriodRemaining": 165,
+    "woNumber": "WO-2024-1023",
+    "timeline": [
+      {
+        "date": "2024-09-11",
+        "event": "Progress 86% (cert)",
+        "description": "Certificate received"
+      }
+    ],
+    "covenants": {
+      "collateral": "OK",
+      "premium": "Overdue",
+      "reinsurance": "On NIA's net (%)"
+    }
+  },
+  {
+    "id": "ADB7020",
+    "bondNumber": "ADB7020",
+    "uin": "UIN-2024-1024",
+    "contractor": "Sterling and Wilson",
+    "contractorId": "contractor-sterling-and-wilson",
+    "beneficiary": "BEML",
+    "progress": 77,
+    "lastUpdate": "2024-09-01",
+    "nextMilestone": "Structural Work",
+    "milestoneDueDate": "2024-09-18",
+    "delay": 19,
+    "riskBand": "Amber",
+    "invoke": false,
+    "dispute": false,
+    "premium": "Overdue",
+    "collateral": "OK",
+    "reinsurance": "On NIA's net (%)",
+    "productType": "Advance Bond",
+    "tenor": 72,
+    "claimPeriodRemaining": 330,
+    "woNumber": "WO-2024-1024",
+    "timeline": [
+      {
+        "date": "2024-09-01",
+        "event": "Progress 77% (cert)",
+        "description": "Behind schedule"
+      }
+    ],
+    "covenants": {
+      "collateral": "Insufficient",
+      "premium": "Due",
+      "reinsurance": "On Reinsurance (%)"
+    }
+  },
+  {
+    "id": "BDB8850",
+    "bondNumber": "BDB8850",
+    "uin": "UIN-2024-1025",
+    "contractor": "Siemens India",
+    "contractorId": "contractor-siemens-india",
+    "beneficiary": "NTPC",
+    "progress": 51,
+    "lastUpdate": "2024-09-18",
+    "nextMilestone": "Mobilization",
+    "milestoneDueDate": "2024-10-09",
+    "delay": 19,
+    "riskBand": "Red",
+    "invoke": false,
+    "dispute": false,
+    "premium": "Paid",
+    "collateral": "Pending",
+    "reinsurance": "On NIA's net (%)",
+    "productType": "Bid Bond",
+    "tenor": 60,
+    "claimPeriodRemaining": 346,
+    "woNumber": "WO-2024-1025",
+    "timeline": [
+      {
+        "date": "2024-09-18",
+        "event": "Progress 51% (cert)",
+        "description": "Certificate received"
+      }
+    ],
+    "covenants": {
+      "collateral": "Insufficient",
+      "premium": "Due",
+      "reinsurance": "On Reinsurance (%)"
+    }
+  },
+  {
+    "id": "ADB4750",
+    "bondNumber": "ADB4750",
+    "uin": "UIN-2024-1026",
+    "contractor": "Siemens India",
+    "contractorId": "contractor-siemens-india",
+    "beneficiary": "BRO",
+    "progress": 37,
+    "lastUpdate": "2024-10-17",
+    "nextMilestone": "Equipment Installation",
+    "milestoneDueDate": "2024-11-11",
+    "delay": 15,
+    "riskBand": "Green",
+    "invoke": false,
+    "dispute": false,
+    "premium": "Overdue",
+    "collateral": "Insufficient",
+    "reinsurance": "On NIA's net (%)",
+    "productType": "Advance Bond",
+    "tenor": 24,
+    "claimPeriodRemaining": 101,
+    "woNumber": "WO-2024-1026",
+    "timeline": [
+      {
+        "date": "2024-10-17",
+        "event": "Progress 37% (cert)",
+        "description": "Ahead of schedule"
+      }
+    ],
+    "covenants": {
+      "collateral": "OK",
+      "premium": "Overdue",
+      "reinsurance": "On NIA's net (%)"
+    }
+  },
+  {
+    "id": "RTB7343",
+    "bondNumber": "RTB7343",
+    "uin": "UIN-2024-1027",
+    "contractor": "Punj Lloyd",
+    "contractorId": "contractor-punj-lloyd",
+    "beneficiary": "BEML",
+    "progress": 24,
+    "lastUpdate": "2024-09-01",
+    "nextMilestone": "Structural Work",
+    "milestoneDueDate": "2024-10-22",
+    "delay": -30,
+    "riskBand": "Amber",
+    "invoke": false,
+    "dispute": true,
+    "premium": "Due",
+    "collateral": "Pending",
+    "reinsurance": "On Reinsurance (%)",
+    "productType": "Retention Bond",
+    "tenor": 24,
+    "claimPeriodRemaining": 171,
+    "woNumber": "WO-2024-1027",
+    "timeline": [
+      {
+        "date": "2024-09-01",
+        "event": "Progress 24% (cert)",
+        "description": "Ahead of schedule"
+      }
+    ],
+    "covenants": {
+      "collateral": "OK",
+      "premium": "Overdue",
+      "reinsurance": "On Reinsurance (%)"
+    }
+  },
+  {
+    "id": "PAB1096",
+    "bondNumber": "PAB1096",
+    "uin": "UIN-2024-1028",
+    "contractor": "ITD Cementation",
+    "contractorId": "contractor-itd-cementation",
+    "beneficiary": "NHIDCL",
+    "progress": 30,
+    "lastUpdate": "2024-09-22",
+    "nextMilestone": "Structural Work",
+    "milestoneDueDate": "2024-11-17",
+    "delay": 20,
+    "riskBand": "Red",
+    "invoke": true,
+    "dispute": true,
+    "premium": "Paid",
+    "collateral": "OK",
+    "reinsurance": "On Reinsurance (%)",
+    "productType": "Performance Bond",
+    "tenor": 60,
+    "claimPeriodRemaining": 152,
+    "woNumber": "WO-2024-1028",
+    "timeline": [
+      {
+        "date": "2024-09-22",
+        "event": "Progress 30% (cert)",
+        "description": "Behind schedule"
+      }
+    ],
+    "covenants": {
+      "collateral": "Pending",
+      "premium": "Overdue",
+      "reinsurance": "On Reinsurance (%)"
+    }
+  },
+  {
+    "id": "MAB1766",
+    "bondNumber": "MAB1766",
+    "uin": "UIN-2024-1029",
+    "contractor": "BHEL",
+    "contractorId": "contractor-bhel",
+    "beneficiary": "NHIDCL",
+    "progress": 78,
+    "lastUpdate": "2024-09-28",
+    "nextMilestone": "Handover",
+    "milestoneDueDate": "2024-10-26",
+    "delay": -25,
+    "riskBand": "Amber",
+    "invoke": false,
+    "dispute": false,
+    "premium": "Overdue",
+    "collateral": "OK",
+    "reinsurance": "On Reinsurance (%)",
+    "productType": "Material Bond",
+    "tenor": 60,
+    "claimPeriodRemaining": 86,
+    "woNumber": "WO-2024-1029",
+    "timeline": [
+      {
+        "date": "2024-09-28",
+        "event": "Progress 78% (cert)",
+        "description": "Certificate received"
+      }
+    ],
+    "covenants": {
+      "collateral": "Pending",
+      "premium": "Due",
+      "reinsurance": "On NIA's net (%)"
+    }
+  },
+  {
+    "id": "ADB8731",
+    "bondNumber": "ADB8731",
+    "uin": "UIN-2024-1030",
+    "contractor": "Siemens India",
+    "contractorId": "contractor-siemens-india",
+    "beneficiary": "NHPC",
+    "progress": 39,
+    "lastUpdate": "2024-10-02",
+    "nextMilestone": "Equipment Installation",
+    "milestoneDueDate": "2024-11-16",
+    "delay": -7,
+    "riskBand": "Green",
+    "invoke": false,
+    "dispute": false,
+    "premium": "Overdue",
+    "collateral": "Pending",
+    "reinsurance": "On NIA's net (%)",
+    "productType": "Advance Bond",
+    "tenor": 36,
+    "claimPeriodRemaining": 320,
+    "woNumber": "WO-2024-1030",
+    "timeline": [
+      {
+        "date": "2024-10-02",
+        "event": "Progress 39% (cert)",
+        "description": "Ahead of schedule"
+      }
+    ],
+    "covenants": {
+      "collateral": "Insufficient",
+      "premium": "Paid",
+      "reinsurance": "On NIA's net (%)"
+    }
+  },
+  {
+    "id": "PAB2945",
+    "bondNumber": "PAB2945",
+    "uin": "UIN-2024-1031",
+    "contractor": "Kalpataru Power",
+    "contractorId": "contractor-kalpataru-power",
+    "beneficiary": "PWD",
+    "progress": 42,
+    "lastUpdate": "2024-09-19",
+    "nextMilestone": "Handover",
+    "milestoneDueDate": "2024-10-27",
+    "delay": 19,
+    "riskBand": "Amber",
+    "invoke": false,
+    "dispute": false,
+    "premium": "Paid",
+    "collateral": "Insufficient",
+    "reinsurance": "On NIA's net (%)",
+    "productType": "Performance Bond",
+    "tenor": 6,
+    "claimPeriodRemaining": 247,
+    "woNumber": "WO-2024-1031",
+    "timeline": [
+      {
+        "date": "2024-09-19",
+        "event": "Progress 42% (cert)",
+        "description": "On schedule"
+      }
+    ],
+    "covenants": {
+      "collateral": "Pending",
+      "premium": "Paid",
+      "reinsurance": "On NIA's net (%)"
+    }
+  },
+  {
+    "id": "MAB5144",
+    "bondNumber": "MAB5144",
+    "uin": "UIN-2024-1032",
+    "contractor": "ABB India",
+    "contractorId": "contractor-abb-india",
+    "beneficiary": "BRO",
+    "progress": 41,
+    "lastUpdate": "2024-09-29",
+    "nextMilestone": "Commissioning",
+    "milestoneDueDate": "2024-11-18",
+    "delay": -12,
+    "riskBand": "Green",
+    "invoke": false,
+    "dispute": false,
+    "premium": "Overdue",
+    "collateral": "Pending",
+    "reinsurance": "On NIA's net (%)",
+    "productType": "Material Bond",
+    "tenor": 18,
+    "claimPeriodRemaining": 152,
+    "woNumber": "WO-2024-1032",
+    "timeline": [
+      {
+        "date": "2024-09-29",
+        "event": "Progress 41% (cert)",
+        "description": "On schedule"
+      }
+    ],
+    "covenants": {
+      "collateral": "Pending",
+      "premium": "Paid",
+      "reinsurance": "On NIA's net (%)"
+    }
+  },
+  {
+    "id": "PAB3152",
+    "bondNumber": "PAB3152",
+    "uin": "UIN-2024-1033",
+    "contractor": "Welspun Corp",
+    "contractorId": "contractor-welspun-corp",
+    "beneficiary": "PWD",
+    "progress": 85,
+    "lastUpdate": "2024-10-10",
+    "nextMilestone": "Mobilization",
+    "milestoneDueDate": "2024-10-28",
+    "delay": 19,
+    "riskBand": "Amber",
+    "invoke": false,
+    "dispute": false,
+    "premium": "Overdue",
+    "collateral": "Pending",
+    "reinsurance": "On NIA's net (%)",
+    "productType": "Performance Bond",
+    "tenor": 6,
+    "claimPeriodRemaining": 299,
+    "woNumber": "WO-2024-1033",
+    "timeline": [
+      {
+        "date": "2024-10-10",
+        "event": "Progress 85% (cert)",
+        "description": "Ahead of schedule"
+      }
+    ],
+    "covenants": {
+      "collateral": "Insufficient",
+      "premium": "Due",
+      "reinsurance": "On Reinsurance (%)"
+    }
+  },
+  {
+    "id": "RTB4046",
+    "bondNumber": "RTB4046",
+    "uin": "UIN-2024-1034",
+    "contractor": "IRCON International",
+    "contractorId": "contractor-ircon-international",
+    "beneficiary": "NHAI",
+    "progress": 55,
+    "lastUpdate": "2024-10-09",
+    "nextMilestone": "Foundation",
+    "milestoneDueDate": "2024-10-20",
+    "delay": 3,
+    "riskBand": "Red",
+    "invoke": false,
+    "dispute": false,
+    "premium": "Overdue",
+    "collateral": "OK",
+    "reinsurance": "On NIA's net (%)",
+    "productType": "Retention Bond",
+    "tenor": 18,
+    "claimPeriodRemaining": 270,
+    "woNumber": "WO-2024-1034",
+    "timeline": [
+      {
+        "date": "2024-10-09",
+        "event": "Progress 55% (cert)",
+        "description": "Behind schedule"
+      }
+    ],
+    "covenants": {
+      "collateral": "Pending",
+      "premium": "Overdue",
+      "reinsurance": "On Reinsurance (%)"
+    }
+  },
+  {
+    "id": "MAB1718",
+    "bondNumber": "MAB1718",
+    "uin": "UIN-2024-1035",
+    "contractor": "JMC Projects",
+    "contractorId": "contractor-jmc-projects",
+    "beneficiary": "BRO",
+    "progress": 48,
+    "lastUpdate": "2024-09-22",
+    "nextMilestone": "Commissioning",
+    "milestoneDueDate": "2024-10-13",
+    "delay": -16,
+    "riskBand": "Red",
+    "invoke": false,
+    "dispute": true,
+    "premium": "Due",
+    "collateral": "Pending",
+    "reinsurance": "On Reinsurance (%)",
+    "productType": "Material Bond",
+    "tenor": 48,
+    "claimPeriodRemaining": 364,
+    "woNumber": "WO-2024-1035",
+    "timeline": [
+      {
+        "date": "2024-09-22",
+        "event": "Progress 48% (cert)",
+        "description": "Behind schedule"
+      }
+    ],
+    "covenants": {
+      "collateral": "Insufficient",
+      "premium": "Paid",
+      "reinsurance": "On Reinsurance (%)"
+    }
+  },
+  {
+    "id": "ADB4920",
+    "bondNumber": "ADB4920",
+    "uin": "UIN-2024-1036",
+    "contractor": "Tata Projects",
+    "contractorId": "contractor-tata-projects",
+    "beneficiary": "NHPC",
+    "progress": 44,
+    "lastUpdate": "2024-09-03",
+    "nextMilestone": "Foundation",
+    "milestoneDueDate": "2024-10-09",
+    "delay": 20,
+    "riskBand": "Amber",
+    "invoke": false,
+    "dispute": false,
+    "premium": "Due",
+    "collateral": "Pending",
+    "reinsurance": "On NIA's net (%)",
+    "productType": "Advance Bond",
+    "tenor": 24,
+    "claimPeriodRemaining": 98,
+    "woNumber": "WO-2024-1036",
+    "timeline": [
+      {
+        "date": "2024-09-03",
+        "event": "Progress 44% (cert)",
+        "description": "Behind schedule"
+      }
+    ],
+    "covenants": {
+      "collateral": "Pending",
+      "premium": "Paid",
+      "reinsurance": "On NIA's net (%)"
+    }
+  },
+  {
+    "id": "MAB6832",
+    "bondNumber": "MAB6832",
+    "uin": "UIN-2024-1037",
+    "contractor": "Punj Lloyd",
+    "contractorId": "contractor-punj-lloyd",
+    "beneficiary": "PGCIL",
+    "progress": 73,
+    "lastUpdate": "2024-09-23",
+    "nextMilestone": "Commissioning",
+    "milestoneDueDate": "2024-10-30",
+    "delay": 13,
+    "riskBand": "Red",
+    "invoke": false,
+    "dispute": false,
+    "premium": "Overdue",
+    "collateral": "Pending",
+    "reinsurance": "On NIA's net (%)",
+    "productType": "Material Bond",
+    "tenor": 60,
+    "claimPeriodRemaining": 83,
+    "woNumber": "WO-2024-1037",
+    "timeline": [
+      {
+        "date": "2024-09-23",
+        "event": "Progress 73% (cert)",
+        "description": "On schedule"
+      }
+    ],
+    "covenants": {
+      "collateral": "Insufficient",
+      "premium": "Overdue",
+      "reinsurance": "On NIA's net (%)"
+    }
+  },
+  {
+    "id": "BDB3331",
+    "bondNumber": "BDB3331",
+    "uin": "UIN-2024-1038",
+    "contractor": "Techno Electric",
+    "contractorId": "contractor-techno-electric",
+    "beneficiary": "Mecon Limited",
+    "progress": 81,
+    "lastUpdate": "2024-09-19",
+    "nextMilestone": "Structural Work",
+    "milestoneDueDate": "2024-10-02",
+    "delay": -11,
+    "riskBand": "Red",
+    "invoke": false,
+    "dispute": false,
+    "premium": "Paid",
+    "collateral": "Insufficient",
+    "reinsurance": "On Reinsurance (%)",
+    "productType": "Bid Bond",
+    "tenor": 6,
+    "claimPeriodRemaining": 284,
+    "woNumber": "WO-2024-1038",
+    "timeline": [
+      {
+        "date": "2024-09-19",
+        "event": "Progress 81% (cert)",
+        "description": "On schedule"
+      }
+    ],
+    "covenants": {
+      "collateral": "OK",
+      "premium": "Due",
+      "reinsurance": "On Reinsurance (%)"
+    }
+  },
+  {
+    "id": "BDB2209",
+    "bondNumber": "BDB2209",
+    "uin": "UIN-2024-1039",
+    "contractor": "ITD Cementation",
+    "contractorId": "contractor-itd-cementation",
+    "beneficiary": "BEML",
+    "progress": 69,
+    "lastUpdate": "2024-10-12",
+    "nextMilestone": "Mobilization",
+    "milestoneDueDate": "2024-11-09",
+    "delay": -25,
+    "riskBand": "Amber",
+    "invoke": false,
+    "dispute": true,
+    "premium": "Paid",
+    "collateral": "Insufficient",
+    "reinsurance": "On Reinsurance (%)",
+    "productType": "Bid Bond",
+    "tenor": 42,
+    "claimPeriodRemaining": 129,
+    "woNumber": "WO-2024-1039",
+    "timeline": [
+      {
+        "date": "2024-10-12",
+        "event": "Progress 69% (cert)",
+        "description": "On schedule"
+      }
+    ],
+    "covenants": {
+      "collateral": "Insufficient",
+      "premium": "Overdue",
+      "reinsurance": "On Reinsurance (%)"
+    }
+  },
+  {
+    "id": "ADB2000",
+    "bondNumber": "ADB2000",
+    "uin": "UIN-2024-1040",
+    "contractor": "Sterling and Wilson",
+    "contractorId": "contractor-sterling-and-wilson",
+    "beneficiary": "NHPC",
+    "progress": 62,
+    "lastUpdate": "2024-10-14",
+    "nextMilestone": "Foundation",
+    "milestoneDueDate": "2024-11-13",
+    "delay": 21,
+    "riskBand": "Green",
+    "invoke": false,
+    "dispute": false,
+    "premium": "Due",
+    "collateral": "OK",
+    "reinsurance": "On Reinsurance (%)",
+    "productType": "Advance Bond",
+    "tenor": 30,
+    "claimPeriodRemaining": 163,
+    "woNumber": "WO-2024-1040",
+    "timeline": [
+      {
+        "date": "2024-10-14",
+        "event": "Progress 62% (cert)",
+        "description": "Certificate received"
+      }
+    ],
+    "covenants": {
+      "collateral": "OK",
+      "premium": "Due",
+      "reinsurance": "On Reinsurance (%)"
+    }
+  },
+  {
+    "id": "PAB7875",
+    "bondNumber": "PAB7875",
+    "uin": "UIN-2024-1041",
+    "contractor": "RITES Ltd",
+    "contractorId": "contractor-rites-ltd",
+    "beneficiary": "NHIDCL",
+    "progress": 22,
+    "lastUpdate": "2024-10-03",
+    "nextMilestone": "Handover",
+    "milestoneDueDate": "2024-12-02",
+    "delay": 27,
+    "riskBand": "Amber",
+    "invoke": false,
+    "dispute": false,
+    "premium": "Due",
+    "collateral": "Insufficient",
+    "reinsurance": "On Reinsurance (%)",
+    "productType": "Performance Bond",
+    "tenor": 30,
+    "claimPeriodRemaining": 174,
+    "woNumber": "WO-2024-1041",
+    "timeline": [
+      {
+        "date": "2024-10-03",
+        "event": "Progress 22% (cert)",
+        "description": "Certificate received"
+      }
+    ],
+    "covenants": {
+      "collateral": "OK",
+      "premium": "Due",
+      "reinsurance": "On Reinsurance (%)"
+    }
+  },
+  {
+    "id": "RTB5999",
+    "bondNumber": "RTB5999",
+    "uin": "UIN-2024-1042",
+    "contractor": "L&T Construction",
+    "contractorId": "contractor-l&t-construction",
+    "beneficiary": "NHIDCL",
+    "progress": 87,
+    "lastUpdate": "2024-10-08",
+    "nextMilestone": "Equipment Installation",
+    "milestoneDueDate": "2024-11-11",
+    "delay": 19,
+    "riskBand": "Amber",
+    "invoke": false,
+    "dispute": false,
+    "premium": "Due",
+    "collateral": "OK",
+    "reinsurance": "On Reinsurance (%)",
+    "productType": "Retention Bond",
+    "tenor": 48,
+    "claimPeriodRemaining": 71,
+    "woNumber": "WO-2024-1042",
+    "timeline": [
+      {
+        "date": "2024-10-08",
+        "event": "Progress 87% (cert)",
+        "description": "Behind schedule"
+      }
+    ],
+    "covenants": {
+      "collateral": "OK",
+      "premium": "Overdue",
+      "reinsurance": "On NIA's net (%)"
+    }
+  },
+  {
+    "id": "RTB6763",
+    "bondNumber": "RTB6763",
+    "uin": "UIN-2024-1043",
+    "contractor": "Welspun Corp",
+    "contractorId": "contractor-welspun-corp",
+    "beneficiary": "BEML",
+    "progress": 46,
+    "lastUpdate": "2024-10-04",
+    "nextMilestone": "Equipment Installation",
+    "milestoneDueDate": "2024-11-24",
+    "delay": -9,
+    "riskBand": "Amber",
+    "invoke": false,
+    "dispute": false,
+    "premium": "Paid",
+    "collateral": "Insufficient",
+    "reinsurance": "On Reinsurance (%)",
+    "productType": "Retention Bond",
+    "tenor": 24,
+    "claimPeriodRemaining": 137,
+    "woNumber": "WO-2024-1043",
+    "timeline": [
+      {
+        "date": "2024-10-04",
+        "event": "Progress 46% (cert)",
+        "description": "Ahead of schedule"
+      }
+    ],
+    "covenants": {
+      "collateral": "OK",
+      "premium": "Paid",
+      "reinsurance": "On Reinsurance (%)"
+    }
+  },
+  {
+    "id": "MAB9178",
+    "bondNumber": "MAB9178",
+    "uin": "UIN-2024-1044",
+    "contractor": "Techno Electric",
+    "contractorId": "contractor-techno-electric",
+    "beneficiary": "BRO",
+    "progress": 24,
+    "lastUpdate": "2024-09-24",
+    "nextMilestone": "Foundation",
+    "milestoneDueDate": "2024-10-17",
+    "delay": 17,
+    "riskBand": "Red",
+    "invoke": false,
+    "dispute": true,
+    "premium": "Paid",
+    "collateral": "Insufficient",
+    "reinsurance": "On NIA's net (%)",
+    "productType": "Material Bond",
+    "tenor": 6,
+    "claimPeriodRemaining": 278,
+    "woNumber": "WO-2024-1044",
+    "timeline": [
+      {
+        "date": "2024-09-24",
+        "event": "Progress 24% (cert)",
+        "description": "Ahead of schedule"
+      }
+    ],
+    "covenants": {
+      "collateral": "Pending",
+      "premium": "Paid",
+      "reinsurance": "On Reinsurance (%)"
+    }
+  },
+  {
+    "id": "BDB2523",
+    "bondNumber": "BDB2523",
+    "uin": "UIN-2024-1045",
+    "contractor": "L&T Construction",
+    "contractorId": "contractor-l&t-construction",
+    "beneficiary": "Mecon Limited",
+    "progress": 52,
+    "lastUpdate": "2024-09-12",
+    "nextMilestone": "Foundation",
+    "milestoneDueDate": "2024-10-01",
+    "delay": 5,
+    "riskBand": "Red",
+    "invoke": false,
+    "dispute": false,
+    "premium": "Due",
+    "collateral": "OK",
+    "reinsurance": "On NIA's net (%)",
+    "productType": "Bid Bond",
+    "tenor": 42,
+    "claimPeriodRemaining": 95,
+    "woNumber": "WO-2024-1045",
+    "timeline": [
+      {
+        "date": "2024-09-12",
+        "event": "Progress 52% (cert)",
+        "description": "On schedule"
+      }
+    ],
+    "covenants": {
+      "collateral": "OK",
+      "premium": "Overdue",
+      "reinsurance": "On NIA's net (%)"
+    }
+  },
+  {
+    "id": "BDB4469",
+    "bondNumber": "BDB4469",
+    "uin": "UIN-2024-1046",
+    "contractor": "Punj Lloyd",
+    "contractorId": "contractor-punj-lloyd",
+    "beneficiary": "Mecon Limited",
+    "progress": 37,
+    "lastUpdate": "2024-09-19",
+    "nextMilestone": "Equipment Installation",
+    "milestoneDueDate": "2024-10-30",
+    "delay": 26,
+    "riskBand": "Amber",
+    "invoke": false,
+    "dispute": true,
+    "premium": "Due",
+    "collateral": "Pending",
+    "reinsurance": "On NIA's net (%)",
+    "productType": "Bid Bond",
+    "tenor": 48,
+    "claimPeriodRemaining": 300,
+    "woNumber": "WO-2024-1046",
+    "timeline": [
+      {
+        "date": "2024-09-19",
+        "event": "Progress 37% (cert)",
+        "description": "Behind schedule"
+      }
+    ],
+    "covenants": {
+      "collateral": "Insufficient",
+      "premium": "Paid",
+      "reinsurance": "On NIA's net (%)"
+    }
+  },
+  {
+    "id": "BDB6106",
+    "bondNumber": "BDB6106",
+    "uin": "UIN-2024-1047",
+    "contractor": "Bharat Electronics",
+    "contractorId": "contractor-bharat-electronics",
+    "beneficiary": "NHIDCL",
+    "progress": 74,
+    "lastUpdate": "2024-09-08",
+    "nextMilestone": "Equipment Installation",
+    "milestoneDueDate": "2024-10-01",
+    "delay": 19,
+    "riskBand": "Amber",
+    "invoke": false,
+    "dispute": true,
+    "premium": "Overdue",
+    "collateral": "Insufficient",
+    "reinsurance": "On Reinsurance (%)",
+    "productType": "Bid Bond",
+    "tenor": 42,
+    "claimPeriodRemaining": 144,
+    "woNumber": "WO-2024-1047",
+    "timeline": [
+      {
+        "date": "2024-09-08",
+        "event": "Progress 74% (cert)",
+        "description": "Behind schedule"
+      }
+    ],
+    "covenants": {
+      "collateral": "Insufficient",
+      "premium": "Due",
+      "reinsurance": "On Reinsurance (%)"
+    }
+  },
+  {
+    "id": "MAB8306",
+    "bondNumber": "MAB8306",
+    "uin": "UIN-2024-1048",
+    "contractor": "L&T Construction",
+    "contractorId": "contractor-l&t-construction",
+    "beneficiary": "NHIDCL",
+    "progress": 81,
+    "lastUpdate": "2024-10-10",
+    "nextMilestone": "Handover",
+    "milestoneDueDate": "2024-11-23",
+    "delay": -13,
+    "riskBand": "Red",
+    "invoke": false,
+    "dispute": false,
+    "premium": "Overdue",
+    "collateral": "Pending",
+    "reinsurance": "On Reinsurance (%)",
+    "productType": "Material Bond",
+    "tenor": 42,
+    "claimPeriodRemaining": 192,
+    "woNumber": "WO-2024-1048",
+    "timeline": [
+      {
+        "date": "2024-10-10",
+        "event": "Progress 81% (cert)",
+        "description": "Behind schedule"
+      }
+    ],
+    "covenants": {
+      "collateral": "OK",
+      "premium": "Overdue",
+      "reinsurance": "On NIA's net (%)"
+    }
+  },
+  {
+    "id": "MAB6381",
+    "bondNumber": "MAB6381",
+    "uin": "UIN-2024-1049",
+    "contractor": "KEC International",
+    "contractorId": "contractor-kec-international",
+    "beneficiary": "BHEL",
+    "progress": 50,
+    "lastUpdate": "2024-09-20",
+    "nextMilestone": "Structural Work",
+    "milestoneDueDate": "2024-11-08",
+    "delay": -24,
+    "riskBand": "Red",
+    "invoke": true,
+    "dispute": false,
+    "premium": "Overdue",
+    "collateral": "Pending",
+    "reinsurance": "On NIA's net (%)",
+    "productType": "Material Bond",
+    "tenor": 30,
+    "claimPeriodRemaining": 189,
+    "woNumber": "WO-2024-1049",
+    "timeline": [
+      {
+        "date": "2024-09-20",
+        "event": "Progress 50% (cert)",
+        "description": "Certificate received"
+      }
+    ],
+    "covenants": {
+      "collateral": "Insufficient",
+      "premium": "Due",
+      "reinsurance": "On Reinsurance (%)"
+    }
+  },
+  {
+    "id": "ADB8221",
+    "bondNumber": "ADB8221",
+    "uin": "UIN-2024-1050",
+    "contractor": "ABB India",
+    "contractorId": "contractor-abb-india",
+    "beneficiary": "BEML",
+    "progress": 23,
+    "lastUpdate": "2024-10-02",
+    "nextMilestone": "Structural Work",
+    "milestoneDueDate": "2024-10-18",
+    "delay": -24,
+    "riskBand": "Green",
+    "invoke": false,
+    "dispute": false,
+    "premium": "Due",
+    "collateral": "Insufficient",
+    "reinsurance": "On Reinsurance (%)",
+    "productType": "Advance Bond",
+    "tenor": 42,
+    "claimPeriodRemaining": 174,
+    "woNumber": "WO-2024-1050",
+    "timeline": [
+      {
+        "date": "2024-10-02",
+        "event": "Progress 23% (cert)",
+        "description": "Behind schedule"
+      }
+    ],
+    "covenants": {
+      "collateral": "OK",
+      "premium": "Paid",
+      "reinsurance": "On NIA's net (%)"
+    }
+  },
+  {
+    "id": "MAB9752",
+    "bondNumber": "MAB9752",
+    "uin": "UIN-2024-1051",
+    "contractor": "HCC Ltd",
+    "contractorId": "contractor-hcc-ltd",
+    "beneficiary": "NHAI",
+    "progress": 36,
+    "lastUpdate": "2024-10-15",
+    "nextMilestone": "Mobilization",
+    "milestoneDueDate": "2024-11-16",
+    "delay": -18,
+    "riskBand": "Green",
+    "invoke": false,
+    "dispute": false,
+    "premium": "Overdue",
+    "collateral": "OK",
+    "reinsurance": "On Reinsurance (%)",
+    "productType": "Material Bond",
+    "tenor": 6,
+    "claimPeriodRemaining": 129,
+    "woNumber": "WO-2024-1051",
+    "timeline": [
+      {
+        "date": "2024-10-15",
+        "event": "Progress 36% (cert)",
+        "description": "On schedule"
+      }
+    ],
+    "covenants": {
+      "collateral": "OK",
+      "premium": "Paid",
+      "reinsurance": "On Reinsurance (%)"
+    }
+  },
+  {
+    "id": "BDB1136",
+    "bondNumber": "BDB1136",
+    "uin": "UIN-2024-1052",
+    "contractor": "Kalpataru Power",
+    "contractorId": "contractor-kalpataru-power",
+    "beneficiary": "NHPC",
+    "progress": 85,
+    "lastUpdate": "2024-09-21",
+    "nextMilestone": "Handover",
+    "milestoneDueDate": "2024-10-20",
+    "delay": -28,
+    "riskBand": "Amber",
+    "invoke": false,
+    "dispute": false,
+    "premium": "Due",
+    "collateral": "Insufficient",
+    "reinsurance": "On NIA's net (%)",
+    "productType": "Bid Bond",
+    "tenor": 18,
+    "claimPeriodRemaining": 132,
+    "woNumber": "WO-2024-1052",
+    "timeline": [
+      {
+        "date": "2024-09-21",
+        "event": "Progress 85% (cert)",
+        "description": "Certificate received"
+      }
+    ],
+    "covenants": {
+      "collateral": "Insufficient",
+      "premium": "Overdue",
+      "reinsurance": "On NIA's net (%)"
+    }
+  },
+  {
+    "id": "RTB3336",
+    "bondNumber": "RTB3336",
+    "uin": "UIN-2024-1053",
+    "contractor": "Reliance Infrastructure",
+    "contractorId": "contractor-reliance-infrastructure",
+    "beneficiary": "PWD",
+    "progress": 38,
+    "lastUpdate": "2024-10-14",
+    "nextMilestone": "Handover",
+    "milestoneDueDate": "2024-11-23",
+    "delay": -15,
+    "riskBand": "Green",
+    "invoke": false,
+    "dispute": false,
+    "premium": "Due",
+    "collateral": "Insufficient",
+    "reinsurance": "On NIA's net (%)",
+    "productType": "Retention Bond",
+    "tenor": 12,
+    "claimPeriodRemaining": 264,
+    "woNumber": "WO-2024-1053",
+    "timeline": [
+      {
+        "date": "2024-10-14",
+        "event": "Progress 38% (cert)",
+        "description": "Behind schedule"
+      }
+    ],
+    "covenants": {
+      "collateral": "OK",
+      "premium": "Overdue",
+      "reinsurance": "On NIA's net (%)"
+    }
+  },
+  {
+    "id": "ADB5821",
+    "bondNumber": "ADB5821",
+    "uin": "UIN-2024-1054",
+    "contractor": "Siemens India",
+    "contractorId": "contractor-siemens-india",
+    "beneficiary": "BEML",
+    "progress": 50,
+    "lastUpdate": "2024-09-01",
+    "nextMilestone": "Handover",
+    "milestoneDueDate": "2024-09-21",
+    "delay": 18,
+    "riskBand": "Amber",
+    "invoke": false,
+    "dispute": true,
+    "premium": "Overdue",
+    "collateral": "Pending",
+    "reinsurance": "On NIA's net (%)",
+    "productType": "Advance Bond",
+    "tenor": 6,
+    "claimPeriodRemaining": 195,
+    "woNumber": "WO-2024-1054",
+    "timeline": [
+      {
+        "date": "2024-09-01",
+        "event": "Progress 50% (cert)",
+        "description": "Behind schedule"
+      }
+    ],
+    "covenants": {
+      "collateral": "OK",
+      "premium": "Overdue",
+      "reinsurance": "On NIA's net (%)"
+    }
+  },
+  {
+    "id": "BDB8836",
+    "bondNumber": "BDB8836",
+    "uin": "UIN-2024-1055",
+    "contractor": "Transformers and Rectifiers",
+    "contractorId": "contractor-transformers-and-rectifiers",
+    "beneficiary": "PWD",
+    "progress": 84,
+    "lastUpdate": "2024-09-21",
+    "nextMilestone": "Foundation",
+    "milestoneDueDate": "2024-10-13",
+    "delay": -14,
+    "riskBand": "Amber",
+    "invoke": false,
+    "dispute": false,
+    "premium": "Paid",
+    "collateral": "OK",
+    "reinsurance": "On Reinsurance (%)",
+    "productType": "Bid Bond",
+    "tenor": 24,
+    "claimPeriodRemaining": 198,
+    "woNumber": "WO-2024-1055",
+    "timeline": [
+      {
+        "date": "2024-09-21",
+        "event": "Progress 84% (cert)",
+        "description": "Behind schedule"
+      }
+    ],
+    "covenants": {
+      "collateral": "Pending",
+      "premium": "Due",
+      "reinsurance": "On NIA's net (%)"
+    }
+  },
+  {
+    "id": "BDB8374",
+    "bondNumber": "BDB8374",
+    "uin": "UIN-2024-1056",
+    "contractor": "Shapoorji Pallonji",
+    "contractorId": "contractor-shapoorji-pallonji",
+    "beneficiary": "BHEL",
+    "progress": 77,
+    "lastUpdate": "2024-09-25",
+    "nextMilestone": "Structural Work",
+    "milestoneDueDate": "2024-10-24",
+    "delay": 29,
+    "riskBand": "Amber",
+    "invoke": false,
+    "dispute": true,
+    "premium": "Overdue",
+    "collateral": "OK",
+    "reinsurance": "On Reinsurance (%)",
+    "productType": "Bid Bond",
+    "tenor": 30,
+    "claimPeriodRemaining": 320,
+    "woNumber": "WO-2024-1056",
+    "timeline": [
+      {
+        "date": "2024-09-25",
+        "event": "Progress 77% (cert)",
+        "description": "On schedule"
+      }
+    ],
+    "covenants": {
+      "collateral": "OK",
+      "premium": "Paid",
+      "reinsurance": "On Reinsurance (%)"
+    }
+  },
+  {
+    "id": "RTB5678",
+    "bondNumber": "RTB5678",
+    "uin": "UIN-2024-1057",
+    "contractor": "Tata Projects",
+    "contractorId": "contractor-tata-projects",
+    "beneficiary": "Mecon Limited",
+    "progress": 85,
+    "lastUpdate": "2024-09-02",
+    "nextMilestone": "Foundation",
+    "milestoneDueDate": "2024-10-22",
+    "delay": -15,
+    "riskBand": "Red",
+    "invoke": false,
+    "dispute": false,
+    "premium": "Due",
+    "collateral": "Insufficient",
+    "reinsurance": "On NIA's net (%)",
+    "productType": "Retention Bond",
+    "tenor": 24,
+    "claimPeriodRemaining": 241,
+    "woNumber": "WO-2024-1057",
+    "timeline": [
+      {
+        "date": "2024-09-02",
+        "event": "Progress 85% (cert)",
+        "description": "Certificate received"
+      }
+    ],
+    "covenants": {
+      "collateral": "OK",
+      "premium": "Due",
+      "reinsurance": "On Reinsurance (%)"
+    }
+  },
+  {
+    "id": "ADB7595",
+    "bondNumber": "ADB7595",
+    "uin": "UIN-2024-1058",
+    "contractor": "ITD Cementation",
+    "contractorId": "contractor-itd-cementation",
+    "beneficiary": "BEML",
+    "progress": 56,
+    "lastUpdate": "2024-09-07",
+    "nextMilestone": "Equipment Installation",
+    "milestoneDueDate": "2024-10-27",
+    "delay": -1,
+    "riskBand": "Green",
+    "invoke": false,
+    "dispute": false,
+    "premium": "Overdue",
+    "collateral": "Insufficient",
+    "reinsurance": "On Reinsurance (%)",
+    "productType": "Advance Bond",
+    "tenor": 72,
+    "claimPeriodRemaining": 85,
+    "woNumber": "WO-2024-1058",
+    "timeline": [
+      {
+        "date": "2024-09-07",
+        "event": "Progress 56% (cert)",
+        "description": "Behind schedule"
+      }
+    ],
+    "covenants": {
+      "collateral": "OK",
+      "premium": "Paid",
+      "reinsurance": "On Reinsurance (%)"
+    }
+  },
+  {
+    "id": "RTB2833",
+    "bondNumber": "RTB2833",
+    "uin": "UIN-2024-1059",
+    "contractor": "Tata Projects",
+    "contractorId": "contractor-tata-projects",
+    "beneficiary": "NTPC",
+    "progress": 30,
+    "lastUpdate": "2024-10-06",
+    "nextMilestone": "Handover",
+    "milestoneDueDate": "2024-11-12",
+    "delay": -26,
+    "riskBand": "Green",
+    "invoke": false,
+    "dispute": false,
+    "premium": "Due",
+    "collateral": "Insufficient",
+    "reinsurance": "On NIA's net (%)",
+    "productType": "Retention Bond",
+    "tenor": 6,
+    "claimPeriodRemaining": 290,
+    "woNumber": "WO-2024-1059",
+    "timeline": [
+      {
+        "date": "2024-10-06",
+        "event": "Progress 30% (cert)",
+        "description": "Ahead of schedule"
+      }
+    ],
+    "covenants": {
+      "collateral": "Pending",
+      "premium": "Paid",
+      "reinsurance": "On NIA's net (%)"
+    }
+  },
+  {
+    "id": "PAB2811",
+    "bondNumber": "PAB2811",
+    "uin": "UIN-2024-1060",
+    "contractor": "XYZ Construction",
+    "contractorId": "contractor-xyz-construction",
+    "beneficiary": "NHIDCL",
+    "progress": 67,
+    "lastUpdate": "2024-09-08",
+    "nextMilestone": "Mobilization",
+    "milestoneDueDate": "2024-10-22",
+    "delay": -29,
+    "riskBand": "Amber",
+    "invoke": false,
+    "dispute": false,
+    "premium": "Due",
+    "collateral": "Pending",
+    "reinsurance": "On Reinsurance (%)",
+    "productType": "Performance Bond",
+    "tenor": 24,
+    "claimPeriodRemaining": 231,
+    "woNumber": "WO-2024-1060",
+    "timeline": [
+      {
+        "date": "2024-09-08",
+        "event": "Progress 67% (cert)",
+        "description": "On schedule"
+      }
+    ],
+    "covenants": {
+      "collateral": "OK",
+      "premium": "Paid",
+      "reinsurance": "On NIA's net (%)"
+    }
+  },
+  {
+    "id": "BDB6543",
+    "bondNumber": "BDB6543",
+    "uin": "UIN-2024-1061",
+    "contractor": "Shapoorji Pallonji",
+    "contractorId": "contractor-shapoorji-pallonji",
+    "beneficiary": "Mecon Limited",
+    "progress": 65,
+    "lastUpdate": "2024-10-08",
+    "nextMilestone": "Foundation",
+    "milestoneDueDate": "2024-11-21",
+    "delay": -13,
+    "riskBand": "Amber",
+    "invoke": false,
+    "dispute": true,
+    "premium": "Overdue",
+    "collateral": "Pending",
+    "reinsurance": "On Reinsurance (%)",
+    "productType": "Bid Bond",
+    "tenor": 72,
+    "claimPeriodRemaining": 262,
+    "woNumber": "WO-2024-1061",
+    "timeline": [
+      {
+        "date": "2024-10-08",
+        "event": "Progress 65% (cert)",
+        "description": "On schedule"
+      }
+    ],
+    "covenants": {
+      "collateral": "Pending",
+      "premium": "Due",
+      "reinsurance": "On Reinsurance (%)"
+    }
+  },
+  {
+    "id": "MAB5459",
+    "bondNumber": "MAB5459",
+    "uin": "UIN-2024-1062",
+    "contractor": "Sterling and Wilson",
+    "contractorId": "contractor-sterling-and-wilson",
+    "beneficiary": "BHEL",
+    "progress": 47,
+    "lastUpdate": "2024-09-20",
+    "nextMilestone": "Foundation",
+    "milestoneDueDate": "2024-11-08",
+    "delay": -5,
+    "riskBand": "Green",
+    "invoke": false,
+    "dispute": false,
+    "premium": "Overdue",
+    "collateral": "Pending",
+    "reinsurance": "On Reinsurance (%)",
+    "productType": "Material Bond",
+    "tenor": 36,
+    "claimPeriodRemaining": 204,
+    "woNumber": "WO-2024-1062",
+    "timeline": [
+      {
+        "date": "2024-09-20",
+        "event": "Progress 47% (cert)",
+        "description": "On schedule"
+      }
+    ],
+    "covenants": {
+      "collateral": "Pending",
+      "premium": "Due",
+      "reinsurance": "On Reinsurance (%)"
+    }
+  },
+  {
+    "id": "ADB4047",
+    "bondNumber": "ADB4047",
+    "uin": "UIN-2024-1063",
+    "contractor": "RITES Ltd",
+    "contractorId": "contractor-rites-ltd",
+    "beneficiary": "NHAI",
+    "progress": 95,
+    "lastUpdate": "2024-09-17",
+    "nextMilestone": "Handover",
+    "milestoneDueDate": "2024-11-09",
+    "delay": 23,
+    "riskBand": "Amber",
+    "invoke": false,
+    "dispute": false,
+    "premium": "Paid",
+    "collateral": "Insufficient",
+    "reinsurance": "On Reinsurance (%)",
+    "productType": "Advance Bond",
+    "tenor": 6,
+    "claimPeriodRemaining": 130,
+    "woNumber": "WO-2024-1063",
+    "timeline": [
+      {
+        "date": "2024-09-17",
+        "event": "Progress 95% (cert)",
+        "description": "On schedule"
+      }
+    ],
+    "covenants": {
+      "collateral": "Pending",
+      "premium": "Due",
+      "reinsurance": "On Reinsurance (%)"
+    }
+  },
+  {
+    "id": "ADB4940",
+    "bondNumber": "ADB4940",
+    "uin": "UIN-2024-1064",
+    "contractor": "Siemens India",
+    "contractorId": "contractor-siemens-india",
+    "beneficiary": "BHEL",
+    "progress": 84,
+    "lastUpdate": "2024-10-14",
+    "nextMilestone": "Commissioning",
+    "milestoneDueDate": "2024-10-30",
+    "delay": 2,
+    "riskBand": "Red",
+    "invoke": true,
+    "dispute": false,
+    "premium": "Due",
+    "collateral": "OK",
+    "reinsurance": "On Reinsurance (%)",
+    "productType": "Advance Bond",
+    "tenor": 18,
+    "claimPeriodRemaining": 304,
+    "woNumber": "WO-2024-1064",
+    "timeline": [
+      {
+        "date": "2024-10-14",
+        "event": "Progress 84% (cert)",
+        "description": "Certificate received"
+      }
+    ],
+    "covenants": {
+      "collateral": "Insufficient",
+      "premium": "Overdue",
+      "reinsurance": "On Reinsurance (%)"
+    }
+  },
+  {
+    "id": "BDB2772",
+    "bondNumber": "BDB2772",
+    "uin": "UIN-2024-1065",
+    "contractor": "Bharat Electronics",
+    "contractorId": "contractor-bharat-electronics",
+    "beneficiary": "PGCIL",
+    "progress": 46,
+    "lastUpdate": "2024-09-09",
+    "nextMilestone": "Handover",
+    "milestoneDueDate": "2024-10-01",
+    "delay": 10,
+    "riskBand": "Green",
+    "invoke": false,
+    "dispute": false,
+    "premium": "Overdue",
+    "collateral": "Insufficient",
+    "reinsurance": "On Reinsurance (%)",
+    "productType": "Bid Bond",
+    "tenor": 12,
+    "claimPeriodRemaining": 342,
+    "woNumber": "WO-2024-1065",
+    "timeline": [
+      {
+        "date": "2024-09-09",
+        "event": "Progress 46% (cert)",
+        "description": "On schedule"
+      }
+    ],
+    "covenants": {
+      "collateral": "Pending",
+      "premium": "Paid",
+      "reinsurance": "On Reinsurance (%)"
+    }
+  },
+  {
+    "id": "MAB7674",
+    "bondNumber": "MAB7674",
+    "uin": "UIN-2024-1066",
+    "contractor": "Techno Electric",
+    "contractorId": "contractor-techno-electric",
+    "beneficiary": "PGCIL",
+    "progress": 20,
+    "lastUpdate": "2024-09-30",
+    "nextMilestone": "Mobilization",
+    "milestoneDueDate": "2024-11-08",
+    "delay": 5,
+    "riskBand": "Green",
+    "invoke": false,
+    "dispute": false,
+    "premium": "Paid",
+    "collateral": "Insufficient",
+    "reinsurance": "On NIA's net (%)",
+    "productType": "Material Bond",
+    "tenor": 36,
+    "claimPeriodRemaining": 278,
+    "woNumber": "WO-2024-1066",
+    "timeline": [
+      {
+        "date": "2024-09-30",
+        "event": "Progress 20% (cert)",
+        "description": "Certificate received"
+      }
+    ],
+    "covenants": {
+      "collateral": "Pending",
+      "premium": "Paid",
+      "reinsurance": "On Reinsurance (%)"
+    }
+  },
+  {
+    "id": "PAB8205",
+    "bondNumber": "PAB8205",
+    "uin": "UIN-2024-1067",
+    "contractor": "RITES Ltd",
+    "contractorId": "contractor-rites-ltd",
+    "beneficiary": "BRO",
+    "progress": 36,
+    "lastUpdate": "2024-10-04",
+    "nextMilestone": "Mobilization",
+    "milestoneDueDate": "2024-10-22",
+    "delay": -7,
+    "riskBand": "Red",
+    "invoke": false,
+    "dispute": true,
+    "premium": "Paid",
+    "collateral": "OK",
+    "reinsurance": "On NIA's net (%)",
+    "productType": "Performance Bond",
+    "tenor": 6,
+    "claimPeriodRemaining": 214,
+    "woNumber": "WO-2024-1067",
+    "timeline": [
+      {
+        "date": "2024-10-04",
+        "event": "Progress 36% (cert)",
+        "description": "Certificate received"
+      }
+    ],
+    "covenants": {
+      "collateral": "OK",
+      "premium": "Paid",
+      "reinsurance": "On Reinsurance (%)"
+    }
+  },
+  {
+    "id": "ADB5769",
+    "bondNumber": "ADB5769",
+    "uin": "UIN-2024-1068",
+    "contractor": "Siemens India",
+    "contractorId": "contractor-siemens-india",
+    "beneficiary": "PWD",
+    "progress": 64,
+    "lastUpdate": "2024-10-11",
+    "nextMilestone": "Commissioning",
+    "milestoneDueDate": "2024-12-10",
+    "delay": -25,
+    "riskBand": "Red",
+    "invoke": false,
+    "dispute": false,
+    "premium": "Paid",
+    "collateral": "Pending",
+    "reinsurance": "On NIA's net (%)",
+    "productType": "Advance Bond",
+    "tenor": 36,
+    "claimPeriodRemaining": 227,
+    "woNumber": "WO-2024-1068",
+    "timeline": [
+      {
+        "date": "2024-10-11",
+        "event": "Progress 64% (cert)",
+        "description": "Certificate received"
+      }
+    ],
+    "covenants": {
+      "collateral": "Pending",
+      "premium": "Overdue",
+      "reinsurance": "On Reinsurance (%)"
+    }
+  },
+  {
+    "id": "BDB7322",
+    "bondNumber": "BDB7322",
+    "uin": "UIN-2024-1069",
+    "contractor": "ITD Cementation",
+    "contractorId": "contractor-itd-cementation",
+    "beneficiary": "PGCIL",
+    "progress": 64,
+    "lastUpdate": "2024-09-06",
+    "nextMilestone": "Foundation",
+    "milestoneDueDate": "2024-10-18",
+    "delay": -29,
+    "riskBand": "Red",
+    "invoke": false,
+    "dispute": false,
+    "premium": "Overdue",
+    "collateral": "Insufficient",
+    "reinsurance": "On NIA's net (%)",
+    "productType": "Bid Bond",
+    "tenor": 6,
+    "claimPeriodRemaining": 257,
+    "woNumber": "WO-2024-1069",
+    "timeline": [
+      {
+        "date": "2024-09-06",
+        "event": "Progress 64% (cert)",
+        "description": "On schedule"
+      }
+    ],
+    "covenants": {
+      "collateral": "Pending",
+      "premium": "Overdue",
+      "reinsurance": "On NIA's net (%)"
+    }
+  },
+  {
+    "id": "MAB9535",
+    "bondNumber": "MAB9535",
+    "uin": "UIN-2024-1070",
+    "contractor": "Shapoorji Pallonji",
+    "contractorId": "contractor-shapoorji-pallonji",
+    "beneficiary": "NHAI",
+    "progress": 54,
+    "lastUpdate": "2024-10-06",
+    "nextMilestone": "Structural Work",
+    "milestoneDueDate": "2024-11-24",
+    "delay": -24,
+    "riskBand": "Green",
+    "invoke": false,
+    "dispute": false,
+    "premium": "Paid",
+    "collateral": "Insufficient",
+    "reinsurance": "On NIA's net (%)",
+    "productType": "Material Bond",
+    "tenor": 48,
+    "claimPeriodRemaining": 118,
+    "woNumber": "WO-2024-1070",
+    "timeline": [
+      {
+        "date": "2024-10-06",
+        "event": "Progress 54% (cert)",
+        "description": "Ahead of schedule"
+      }
+    ],
+    "covenants": {
+      "collateral": "OK",
+      "premium": "Paid",
+      "reinsurance": "On NIA's net (%)"
+    }
+  },
+  {
+    "id": "PAB9165",
+    "bondNumber": "PAB9165",
+    "uin": "UIN-2024-1071",
+    "contractor": "Techno Electric",
+    "contractorId": "contractor-techno-electric",
+    "beneficiary": "NHIDCL",
+    "progress": 44,
+    "lastUpdate": "2024-10-08",
+    "nextMilestone": "Mobilization",
+    "milestoneDueDate": "2024-10-21",
+    "delay": -28,
+    "riskBand": "Green",
+    "invoke": false,
+    "dispute": false,
+    "premium": "Due",
+    "collateral": "Pending",
+    "reinsurance": "On NIA's net (%)",
+    "productType": "Performance Bond",
+    "tenor": 42,
+    "claimPeriodRemaining": 365,
+    "woNumber": "WO-2024-1071",
+    "timeline": [
+      {
+        "date": "2024-10-08",
+        "event": "Progress 44% (cert)",
+        "description": "On schedule"
+      }
+    ],
+    "covenants": {
+      "collateral": "Insufficient",
+      "premium": "Overdue",
+      "reinsurance": "On NIA's net (%)"
+    }
+  },
+  {
+    "id": "MAB7448",
+    "bondNumber": "MAB7448",
+    "uin": "UIN-2024-1072",
+    "contractor": "IRCON International",
+    "contractorId": "contractor-ircon-international",
+    "beneficiary": "PWD",
+    "progress": 60,
+    "lastUpdate": "2024-09-27",
+    "nextMilestone": "Mobilization",
+    "milestoneDueDate": "2024-11-24",
+    "delay": -22,
+    "riskBand": "Red",
+    "invoke": false,
+    "dispute": false,
+    "premium": "Overdue",
+    "collateral": "Pending",
+    "reinsurance": "On Reinsurance (%)",
+    "productType": "Material Bond",
+    "tenor": 48,
+    "claimPeriodRemaining": 344,
+    "woNumber": "WO-2024-1072",
+    "timeline": [
+      {
+        "date": "2024-09-27",
+        "event": "Progress 60% (cert)",
+        "description": "Ahead of schedule"
+      }
+    ],
+    "covenants": {
+      "collateral": "Insufficient",
+      "premium": "Due",
+      "reinsurance": "On NIA's net (%)"
+    }
+  },
+  {
+    "id": "BDB3269",
+    "bondNumber": "BDB3269",
+    "uin": "UIN-2024-1073",
+    "contractor": "Sterling and Wilson",
+    "contractorId": "contractor-sterling-and-wilson",
+    "beneficiary": "PGCIL",
+    "progress": 84,
+    "lastUpdate": "2024-10-14",
+    "nextMilestone": "Equipment Installation",
+    "milestoneDueDate": "2024-11-13",
+    "delay": 13,
+    "riskBand": "Green",
+    "invoke": false,
+    "dispute": false,
+    "premium": "Paid",
+    "collateral": "Insufficient",
+    "reinsurance": "On NIA's net (%)",
+    "productType": "Bid Bond",
+    "tenor": 24,
+    "claimPeriodRemaining": 157,
+    "woNumber": "WO-2024-1073",
+    "timeline": [
+      {
+        "date": "2024-10-14",
+        "event": "Progress 84% (cert)",
+        "description": "Ahead of schedule"
+      }
+    ],
+    "covenants": {
+      "collateral": "Pending",
+      "premium": "Due",
+      "reinsurance": "On NIA's net (%)"
+    }
+  },
+  {
+    "id": "RTB5330",
+    "bondNumber": "RTB5330",
+    "uin": "UIN-2024-1074",
+    "contractor": "XYZ Construction",
+    "contractorId": "contractor-xyz-construction",
+    "beneficiary": "NHAI",
+    "progress": 72,
+    "lastUpdate": "2024-09-23",
+    "nextMilestone": "Handover",
+    "milestoneDueDate": "2024-10-19",
+    "delay": -11,
+    "riskBand": "Red",
+    "invoke": true,
+    "dispute": false,
+    "premium": "Due",
+    "collateral": "Pending",
+    "reinsurance": "On NIA's net (%)",
+    "productType": "Retention Bond",
+    "tenor": 12,
+    "claimPeriodRemaining": 188,
+    "woNumber": "WO-2024-1074",
+    "timeline": [
+      {
+        "date": "2024-09-23",
+        "event": "Progress 72% (cert)",
+        "description": "Certificate received"
+      }
+    ],
+    "covenants": {
+      "collateral": "Pending",
+      "premium": "Due",
+      "reinsurance": "On NIA's net (%)"
+    }
+  },
+  {
+    "id": "PAB9281",
+    "bondNumber": "PAB9281",
+    "uin": "UIN-2024-1075",
+    "contractor": "L&T Construction",
+    "contractorId": "contractor-l&t-construction",
+    "beneficiary": "BEML",
+    "progress": 75,
+    "lastUpdate": "2024-09-17",
+    "nextMilestone": "Mobilization",
+    "milestoneDueDate": "2024-10-14",
+    "delay": -22,
+    "riskBand": "Green",
+    "invoke": false,
+    "dispute": false,
+    "premium": "Overdue",
+    "collateral": "Pending",
+    "reinsurance": "On Reinsurance (%)",
+    "productType": "Performance Bond",
+    "tenor": 60,
+    "claimPeriodRemaining": 166,
+    "woNumber": "WO-2024-1075",
+    "timeline": [
+      {
+        "date": "2024-09-17",
+        "event": "Progress 75% (cert)",
+        "description": "Certificate received"
+      }
+    ],
+    "covenants": {
+      "collateral": "Insufficient",
+      "premium": "Paid",
+      "reinsurance": "On NIA's net (%)"
+    }
+  },
+  {
+    "id": "RTB2668",
+    "bondNumber": "RTB2668",
+    "uin": "UIN-2024-1076",
+    "contractor": "Transformers and Rectifiers",
+    "contractorId": "contractor-transformers-and-rectifiers",
+    "beneficiary": "NHIDCL",
+    "progress": 65,
+    "lastUpdate": "2024-09-18",
+    "nextMilestone": "Mobilization",
+    "milestoneDueDate": "2024-10-08",
+    "delay": -29,
+    "riskBand": "Red",
+    "invoke": true,
+    "dispute": false,
+    "premium": "Overdue",
+    "collateral": "OK",
+    "reinsurance": "On Reinsurance (%)",
+    "productType": "Retention Bond",
+    "tenor": 12,
+    "claimPeriodRemaining": 223,
+    "woNumber": "WO-2024-1076",
+    "timeline": [
+      {
+        "date": "2024-09-18",
+        "event": "Progress 65% (cert)",
+        "description": "On schedule"
+      }
+    ],
+    "covenants": {
+      "collateral": "OK",
+      "premium": "Paid",
+      "reinsurance": "On NIA's net (%)"
+    }
+  },
+  {
+    "id": "RTB5886",
+    "bondNumber": "RTB5886",
+    "uin": "UIN-2024-1077",
+    "contractor": "Bharat Electronics",
+    "contractorId": "contractor-bharat-electronics",
+    "beneficiary": "NTPC",
+    "progress": 38,
+    "lastUpdate": "2024-10-06",
+    "nextMilestone": "Foundation",
+    "milestoneDueDate": "2024-12-04",
+    "delay": -16,
+    "riskBand": "Red",
+    "invoke": false,
+    "dispute": true,
+    "premium": "Overdue",
+    "collateral": "Insufficient",
+    "reinsurance": "On Reinsurance (%)",
+    "productType": "Retention Bond",
+    "tenor": 72,
+    "claimPeriodRemaining": 255,
+    "woNumber": "WO-2024-1077",
+    "timeline": [
+      {
+        "date": "2024-10-06",
+        "event": "Progress 38% (cert)",
+        "description": "Certificate received"
+      }
+    ],
+    "covenants": {
+      "collateral": "Insufficient",
+      "premium": "Paid",
+      "reinsurance": "On NIA's net (%)"
+    }
+  },
+  {
+    "id": "ADB5759",
+    "bondNumber": "ADB5759",
+    "uin": "UIN-2024-1078",
+    "contractor": "Tata Projects",
+    "contractorId": "contractor-tata-projects",
+    "beneficiary": "PGCIL",
+    "progress": 43,
+    "lastUpdate": "2024-09-10",
+    "nextMilestone": "Equipment Installation",
+    "milestoneDueDate": "2024-11-04",
+    "delay": -11,
+    "riskBand": "Red",
+    "invoke": false,
+    "dispute": true,
+    "premium": "Due",
+    "collateral": "OK",
+    "reinsurance": "On NIA's net (%)",
+    "productType": "Advance Bond",
+    "tenor": 30,
+    "claimPeriodRemaining": 214,
+    "woNumber": "WO-2024-1078",
+    "timeline": [
+      {
+        "date": "2024-09-10",
+        "event": "Progress 43% (cert)",
+        "description": "Ahead of schedule"
+      }
+    ],
+    "covenants": {
+      "collateral": "Pending",
+      "premium": "Due",
+      "reinsurance": "On NIA's net (%)"
+    }
+  },
+  {
+    "id": "ADB9720",
+    "bondNumber": "ADB9720",
+    "uin": "UIN-2024-1079",
+    "contractor": "Transformers and Rectifiers",
+    "contractorId": "contractor-transformers-and-rectifiers",
+    "beneficiary": "BEML",
+    "progress": 95,
+    "lastUpdate": "2024-10-10",
+    "nextMilestone": "Commissioning",
+    "milestoneDueDate": "2024-11-03",
+    "delay": 19,
+    "riskBand": "Red",
+    "invoke": false,
+    "dispute": false,
+    "premium": "Paid",
+    "collateral": "Pending",
+    "reinsurance": "On Reinsurance (%)",
+    "productType": "Advance Bond",
+    "tenor": 18,
+    "claimPeriodRemaining": 363,
+    "woNumber": "WO-2024-1079",
+    "timeline": [
+      {
+        "date": "2024-10-10",
+        "event": "Progress 95% (cert)",
+        "description": "Ahead of schedule"
+      }
+    ],
+    "covenants": {
+      "collateral": "OK",
+      "premium": "Paid",
+      "reinsurance": "On Reinsurance (%)"
+    }
+  },
+  {
+    "id": "ADB4366",
+    "bondNumber": "ADB4366",
+    "uin": "UIN-2024-1080",
+    "contractor": "ITD Cementation",
+    "contractorId": "contractor-itd-cementation",
+    "beneficiary": "NTPC",
+    "progress": 64,
+    "lastUpdate": "2024-10-12",
+    "nextMilestone": "Commissioning",
+    "milestoneDueDate": "2024-11-29",
+    "delay": -15,
+    "riskBand": "Red",
+    "invoke": true,
+    "dispute": true,
+    "premium": "Paid",
+    "collateral": "OK",
+    "reinsurance": "On NIA's net (%)",
+    "productType": "Advance Bond",
+    "tenor": 42,
+    "claimPeriodRemaining": 62,
+    "woNumber": "WO-2024-1080",
+    "timeline": [
+      {
+        "date": "2024-10-12",
+        "event": "Progress 64% (cert)",
+        "description": "Ahead of schedule"
+      }
+    ],
+    "covenants": {
+      "collateral": "OK",
+      "premium": "Paid",
+      "reinsurance": "On Reinsurance (%)"
+    }
+  },
+  {
+    "id": "RTB5833",
+    "bondNumber": "RTB5833",
+    "uin": "UIN-2024-1081",
+    "contractor": "Tata Projects",
+    "contractorId": "contractor-tata-projects",
+    "beneficiary": "NHAI",
+    "progress": 65,
+    "lastUpdate": "2024-09-17",
+    "nextMilestone": "Handover",
+    "milestoneDueDate": "2024-10-12",
+    "delay": 20,
+    "riskBand": "Green",
+    "invoke": false,
+    "dispute": false,
+    "premium": "Paid",
+    "collateral": "OK",
+    "reinsurance": "On NIA's net (%)",
+    "productType": "Retention Bond",
+    "tenor": 18,
+    "claimPeriodRemaining": 353,
+    "woNumber": "WO-2024-1081",
+    "timeline": [
+      {
+        "date": "2024-09-17",
+        "event": "Progress 65% (cert)",
+        "description": "On schedule"
+      }
+    ],
+    "covenants": {
+      "collateral": "Pending",
+      "premium": "Paid",
+      "reinsurance": "On Reinsurance (%)"
+    }
+  },
+  {
+    "id": "ADB9311",
+    "bondNumber": "ADB9311",
+    "uin": "UIN-2024-1082",
+    "contractor": "IRCON International",
+    "contractorId": "contractor-ircon-international",
+    "beneficiary": "NHAI",
+    "progress": 83,
+    "lastUpdate": "2024-09-15",
+    "nextMilestone": "Foundation",
+    "milestoneDueDate": "2024-10-16",
+    "delay": -8,
+    "riskBand": "Green",
+    "invoke": false,
+    "dispute": false,
+    "premium": "Due",
+    "collateral": "Insufficient",
+    "reinsurance": "On Reinsurance (%)",
+    "productType": "Advance Bond",
+    "tenor": 24,
+    "claimPeriodRemaining": 320,
+    "woNumber": "WO-2024-1082",
+    "timeline": [
+      {
+        "date": "2024-09-15",
+        "event": "Progress 83% (cert)",
+        "description": "On schedule"
+      }
+    ],
+    "covenants": {
+      "collateral": "Insufficient",
+      "premium": "Due",
+      "reinsurance": "On NIA's net (%)"
+    }
+  },
+  {
+    "id": "ADB7429",
+    "bondNumber": "ADB7429",
+    "uin": "UIN-2024-1083",
+    "contractor": "Reliance Infrastructure",
+    "contractorId": "contractor-reliance-infrastructure",
+    "beneficiary": "NHPC",
+    "progress": 22,
+    "lastUpdate": "2024-09-22",
+    "nextMilestone": "Foundation",
+    "milestoneDueDate": "2024-10-07",
+    "delay": 14,
+    "riskBand": "Green",
+    "invoke": false,
+    "dispute": false,
+    "premium": "Paid",
+    "collateral": "OK",
+    "reinsurance": "On NIA's net (%)",
+    "productType": "Advance Bond",
+    "tenor": 30,
+    "claimPeriodRemaining": 118,
+    "woNumber": "WO-2024-1083",
+    "timeline": [
+      {
+        "date": "2024-09-22",
+        "event": "Progress 22% (cert)",
+        "description": "On schedule"
+      }
+    ],
+    "covenants": {
+      "collateral": "OK",
+      "premium": "Paid",
+      "reinsurance": "On NIA's net (%)"
+    }
+  },
+  {
+    "id": "RTB9699",
+    "bondNumber": "RTB9699",
+    "uin": "UIN-2024-1084",
+    "contractor": "Gammon India",
+    "contractorId": "contractor-gammon-india",
+    "beneficiary": "BEML",
+    "progress": 83,
+    "lastUpdate": "2024-09-21",
+    "nextMilestone": "Equipment Installation",
+    "milestoneDueDate": "2024-11-16",
+    "delay": -11,
+    "riskBand": "Amber",
+    "invoke": false,
+    "dispute": true,
+    "premium": "Paid",
+    "collateral": "OK",
+    "reinsurance": "On NIA's net (%)",
+    "productType": "Retention Bond",
+    "tenor": 72,
+    "claimPeriodRemaining": 305,
+    "woNumber": "WO-2024-1084",
+    "timeline": [
+      {
+        "date": "2024-09-21",
+        "event": "Progress 83% (cert)",
+        "description": "Ahead of schedule"
+      }
+    ],
+    "covenants": {
+      "collateral": "Pending",
+      "premium": "Overdue",
+      "reinsurance": "On NIA's net (%)"
+    }
+  },
+  {
+    "id": "ADB7628",
+    "bondNumber": "ADB7628",
+    "uin": "UIN-2024-1085",
+    "contractor": "Bharat Electronics",
+    "contractorId": "contractor-bharat-electronics",
+    "beneficiary": "PGCIL",
+    "progress": 25,
+    "lastUpdate": "2024-09-13",
+    "nextMilestone": "Commissioning",
+    "milestoneDueDate": "2024-11-10",
+    "delay": -29,
+    "riskBand": "Green",
+    "invoke": false,
+    "dispute": false,
+    "premium": "Paid",
+    "collateral": "Pending",
+    "reinsurance": "On NIA's net (%)",
+    "productType": "Advance Bond",
+    "tenor": 72,
+    "claimPeriodRemaining": 293,
+    "woNumber": "WO-2024-1085",
+    "timeline": [
+      {
+        "date": "2024-09-13",
+        "event": "Progress 25% (cert)",
+        "description": "Certificate received"
+      }
+    ],
+    "covenants": {
+      "collateral": "Pending",
+      "premium": "Due",
+      "reinsurance": "On Reinsurance (%)"
+    }
+  },
+  {
+    "id": "ADB2000",
+    "bondNumber": "ADB2000",
+    "uin": "UIN-2024-1086",
+    "contractor": "Kalpataru Power",
+    "contractorId": "contractor-kalpataru-power",
+    "beneficiary": "BEML",
+    "progress": 42,
+    "lastUpdate": "2024-09-25",
+    "nextMilestone": "Equipment Installation",
+    "milestoneDueDate": "2024-10-15",
+    "delay": -16,
+    "riskBand": "Red",
+    "invoke": false,
+    "dispute": false,
+    "premium": "Due",
+    "collateral": "Insufficient",
+    "reinsurance": "On NIA's net (%)",
+    "productType": "Advance Bond",
+    "tenor": 48,
+    "claimPeriodRemaining": 250,
+    "woNumber": "WO-2024-1086",
+    "timeline": [
+      {
+        "date": "2024-09-25",
+        "event": "Progress 42% (cert)",
+        "description": "On schedule"
+      }
+    ],
+    "covenants": {
+      "collateral": "OK",
+      "premium": "Overdue",
+      "reinsurance": "On Reinsurance (%)"
+    }
+  },
+  {
+    "id": "ADB1406",
+    "bondNumber": "ADB1406",
+    "uin": "UIN-2024-1087",
+    "contractor": "Reliance Infrastructure",
+    "contractorId": "contractor-reliance-infrastructure",
+    "beneficiary": "BRO",
+    "progress": 71,
+    "lastUpdate": "2024-09-11",
+    "nextMilestone": "Handover",
+    "milestoneDueDate": "2024-09-25",
+    "delay": 2,
+    "riskBand": "Red",
+    "invoke": true,
+    "dispute": true,
+    "premium": "Paid",
+    "collateral": "OK",
+    "reinsurance": "On Reinsurance (%)",
+    "productType": "Advance Bond",
+    "tenor": 42,
+    "claimPeriodRemaining": 88,
+    "woNumber": "WO-2024-1087",
+    "timeline": [
+      {
+        "date": "2024-09-11",
+        "event": "Progress 71% (cert)",
+        "description": "Certificate received"
+      }
+    ],
+    "covenants": {
+      "collateral": "OK",
+      "premium": "Due",
+      "reinsurance": "On NIA's net (%)"
+    }
+  },
+  {
+    "id": "BDB8586",
+    "bondNumber": "BDB8586",
+    "uin": "UIN-2024-1088",
+    "contractor": "BHEL",
+    "contractorId": "contractor-bhel",
+    "beneficiary": "NHAI",
+    "progress": 40,
+    "lastUpdate": "2024-10-20",
+    "nextMilestone": "Commissioning",
+    "milestoneDueDate": "2024-11-09",
+    "delay": -25,
+    "riskBand": "Green",
+    "invoke": false,
+    "dispute": false,
+    "premium": "Overdue",
+    "collateral": "Pending",
+    "reinsurance": "On NIA's net (%)",
+    "productType": "Bid Bond",
+    "tenor": 36,
+    "claimPeriodRemaining": 88,
+    "woNumber": "WO-2024-1088",
+    "timeline": [
+      {
+        "date": "2024-10-20",
+        "event": "Progress 40% (cert)",
+        "description": "Behind schedule"
+      }
+    ],
+    "covenants": {
+      "collateral": "OK",
+      "premium": "Due",
+      "reinsurance": "On Reinsurance (%)"
+    }
+  },
+  {
+    "id": "BDB1802",
+    "bondNumber": "BDB1802",
+    "uin": "UIN-2024-1089",
+    "contractor": "Shapoorji Pallonji",
+    "contractorId": "contractor-shapoorji-pallonji",
+    "beneficiary": "NHPC",
+    "progress": 91,
+    "lastUpdate": "2024-09-25",
+    "nextMilestone": "Mobilization",
+    "milestoneDueDate": "2024-11-21",
+    "delay": -29,
+    "riskBand": "Amber",
+    "invoke": false,
+    "dispute": true,
+    "premium": "Overdue",
+    "collateral": "OK",
+    "reinsurance": "On NIA's net (%)",
+    "productType": "Bid Bond",
+    "tenor": 36,
+    "claimPeriodRemaining": 132,
+    "woNumber": "WO-2024-1089",
+    "timeline": [
+      {
+        "date": "2024-09-25",
+        "event": "Progress 91% (cert)",
+        "description": "Certificate received"
+      }
+    ],
+    "covenants": {
+      "collateral": "Insufficient",
+      "premium": "Paid",
+      "reinsurance": "On Reinsurance (%)"
+    }
+  },
+  {
+    "id": "RTB9581",
+    "bondNumber": "RTB9581",
+    "uin": "UIN-2024-1090",
+    "contractor": "XYZ Construction",
+    "contractorId": "contractor-xyz-construction",
+    "beneficiary": "NHPC",
+    "progress": 85,
+    "lastUpdate": "2024-10-20",
+    "nextMilestone": "Mobilization",
+    "milestoneDueDate": "2024-11-23",
+    "delay": -17,
+    "riskBand": "Amber",
+    "invoke": false,
+    "dispute": false,
+    "premium": "Paid",
+    "collateral": "Pending",
+    "reinsurance": "On Reinsurance (%)",
+    "productType": "Retention Bond",
+    "tenor": 6,
+    "claimPeriodRemaining": 266,
+    "woNumber": "WO-2024-1090",
+    "timeline": [
+      {
+        "date": "2024-10-20",
+        "event": "Progress 85% (cert)",
+        "description": "Behind schedule"
+      }
+    ],
+    "covenants": {
+      "collateral": "Insufficient",
+      "premium": "Overdue",
+      "reinsurance": "On NIA's net (%)"
+    }
+  },
+  {
+    "id": "BDB7407",
+    "bondNumber": "BDB7407",
+    "uin": "UIN-2024-1091",
+    "contractor": "Tata Projects",
+    "contractorId": "contractor-tata-projects",
+    "beneficiary": "BRO",
+    "progress": 74,
+    "lastUpdate": "2024-09-25",
+    "nextMilestone": "Handover",
+    "milestoneDueDate": "2024-11-03",
+    "delay": 23,
+    "riskBand": "Green",
+    "invoke": false,
+    "dispute": false,
+    "premium": "Paid",
+    "collateral": "Pending",
+    "reinsurance": "On Reinsurance (%)",
+    "productType": "Bid Bond",
+    "tenor": 12,
+    "claimPeriodRemaining": 254,
+    "woNumber": "WO-2024-1091",
+    "timeline": [
+      {
+        "date": "2024-09-25",
+        "event": "Progress 74% (cert)",
+        "description": "Certificate received"
+      }
+    ],
+    "covenants": {
+      "collateral": "Insufficient",
+      "premium": "Due",
+      "reinsurance": "On NIA's net (%)"
+    }
+  },
+  {
+    "id": "BDB5797",
+    "bondNumber": "BDB5797",
+    "uin": "UIN-2024-1092",
+    "contractor": "Punj Lloyd",
+    "contractorId": "contractor-punj-lloyd",
+    "beneficiary": "BEML",
+    "progress": 95,
+    "lastUpdate": "2024-10-11",
+    "nextMilestone": "Handover",
+    "milestoneDueDate": "2024-11-15",
+    "delay": 14,
+    "riskBand": "Amber",
+    "invoke": false,
+    "dispute": false,
+    "premium": "Due",
+    "collateral": "Insufficient",
+    "reinsurance": "On NIA's net (%)",
+    "productType": "Bid Bond",
+    "tenor": 12,
+    "claimPeriodRemaining": 286,
+    "woNumber": "WO-2024-1092",
+    "timeline": [
+      {
+        "date": "2024-10-11",
+        "event": "Progress 95% (cert)",
+        "description": "Ahead of schedule"
+      }
+    ],
+    "covenants": {
+      "collateral": "Pending",
+      "premium": "Overdue",
+      "reinsurance": "On Reinsurance (%)"
+    }
+  },
+  {
+    "id": "PAB3411",
+    "bondNumber": "PAB3411",
+    "uin": "UIN-2024-1093",
+    "contractor": "ABB India",
+    "contractorId": "contractor-abb-india",
+    "beneficiary": "BHEL",
+    "progress": 66,
+    "lastUpdate": "2024-09-27",
+    "nextMilestone": "Structural Work",
+    "milestoneDueDate": "2024-10-19",
+    "delay": -22,
+    "riskBand": "Green",
+    "invoke": false,
+    "dispute": false,
+    "premium": "Due",
+    "collateral": "Pending",
+    "reinsurance": "On NIA's net (%)",
+    "productType": "Performance Bond",
+    "tenor": 48,
+    "claimPeriodRemaining": 207,
+    "woNumber": "WO-2024-1093",
+    "timeline": [
+      {
+        "date": "2024-09-27",
+        "event": "Progress 66% (cert)",
+        "description": "Certificate received"
+      }
+    ],
+    "covenants": {
+      "collateral": "Insufficient",
+      "premium": "Overdue",
+      "reinsurance": "On NIA's net (%)"
+    }
+  },
+  {
+    "id": "PAB7183",
+    "bondNumber": "PAB7183",
+    "uin": "UIN-2024-1094",
+    "contractor": "ABC Infra",
+    "contractorId": "contractor-abc-infra",
+    "beneficiary": "PGCIL",
+    "progress": 95,
+    "lastUpdate": "2024-10-10",
+    "nextMilestone": "Structural Work",
+    "milestoneDueDate": "2024-11-05",
+    "delay": -17,
+    "riskBand": "Red",
+    "invoke": false,
+    "dispute": false,
+    "premium": "Overdue",
+    "collateral": "Pending",
+    "reinsurance": "On Reinsurance (%)",
+    "productType": "Performance Bond",
+    "tenor": 36,
+    "claimPeriodRemaining": 244,
+    "woNumber": "WO-2024-1094",
+    "timeline": [
+      {
+        "date": "2024-10-10",
+        "event": "Progress 95% (cert)",
+        "description": "Certificate received"
+      }
+    ],
+    "covenants": {
+      "collateral": "OK",
+      "premium": "Due",
+      "reinsurance": "On NIA's net (%)"
+    }
+  },
+  {
+    "id": "RTB7434",
+    "bondNumber": "RTB7434",
+    "uin": "UIN-2024-1095",
+    "contractor": "GMR Infrastructure",
+    "contractorId": "contractor-gmr-infrastructure",
+    "beneficiary": "PWD",
+    "progress": 62,
+    "lastUpdate": "2024-09-14",
+    "nextMilestone": "Commissioning",
+    "milestoneDueDate": "2024-11-01",
+    "delay": 16,
+    "riskBand": "Amber",
+    "invoke": false,
+    "dispute": false,
+    "premium": "Paid",
+    "collateral": "Insufficient",
+    "reinsurance": "On Reinsurance (%)",
+    "productType": "Retention Bond",
+    "tenor": 12,
+    "claimPeriodRemaining": 76,
+    "woNumber": "WO-2024-1095",
+    "timeline": [
+      {
+        "date": "2024-09-14",
+        "event": "Progress 62% (cert)",
+        "description": "On schedule"
+      }
+    ],
+    "covenants": {
+      "collateral": "OK",
+      "premium": "Overdue",
+      "reinsurance": "On Reinsurance (%)"
+    }
+  },
+  {
+    "id": "RTB6702",
+    "bondNumber": "RTB6702",
+    "uin": "UIN-2024-1096",
+    "contractor": "ABC Infra",
+    "contractorId": "contractor-abc-infra",
+    "beneficiary": "BHEL",
+    "progress": 32,
+    "lastUpdate": "2024-09-30",
+    "nextMilestone": "Structural Work",
+    "milestoneDueDate": "2024-10-11",
+    "delay": -6,
+    "riskBand": "Red",
+    "invoke": false,
+    "dispute": false,
+    "premium": "Due",
+    "collateral": "OK",
+    "reinsurance": "On Reinsurance (%)",
+    "productType": "Retention Bond",
+    "tenor": 6,
+    "claimPeriodRemaining": 314,
+    "woNumber": "WO-2024-1096",
+    "timeline": [
+      {
+        "date": "2024-09-30",
+        "event": "Progress 32% (cert)",
+        "description": "Certificate received"
+      }
+    ],
+    "covenants": {
+      "collateral": "OK",
+      "premium": "Due",
+      "reinsurance": "On Reinsurance (%)"
+    }
+  },
+  {
+    "id": "PAB2021",
+    "bondNumber": "PAB2021",
+    "uin": "UIN-2024-1097",
+    "contractor": "Tata Projects",
+    "contractorId": "contractor-tata-projects",
+    "beneficiary": "PWD",
+    "progress": 62,
+    "lastUpdate": "2024-10-20",
+    "nextMilestone": "Equipment Installation",
+    "milestoneDueDate": "2024-11-04",
+    "delay": -18,
+    "riskBand": "Green",
+    "invoke": false,
+    "dispute": false,
+    "premium": "Due",
+    "collateral": "Insufficient",
+    "reinsurance": "On Reinsurance (%)",
+    "productType": "Performance Bond",
+    "tenor": 6,
+    "claimPeriodRemaining": 148,
+    "woNumber": "WO-2024-1097",
+    "timeline": [
+      {
+        "date": "2024-10-20",
+        "event": "Progress 62% (cert)",
+        "description": "Certificate received"
+      }
+    ],
+    "covenants": {
+      "collateral": "Insufficient",
+      "premium": "Overdue",
+      "reinsurance": "On NIA's net (%)"
+    }
+  },
+  {
+    "id": "PAB4697",
+    "bondNumber": "PAB4697",
+    "uin": "UIN-2024-1098",
+    "contractor": "Tata Projects",
+    "contractorId": "contractor-tata-projects",
+    "beneficiary": "NTPC",
+    "progress": 61,
+    "lastUpdate": "2024-09-01",
+    "nextMilestone": "Foundation",
+    "milestoneDueDate": "2024-10-15",
+    "delay": 26,
+    "riskBand": "Amber",
+    "invoke": false,
+    "dispute": true,
+    "premium": "Paid",
+    "collateral": "Pending",
+    "reinsurance": "On Reinsurance (%)",
+    "productType": "Performance Bond",
+    "tenor": 18,
+    "claimPeriodRemaining": 121,
+    "woNumber": "WO-2024-1098",
+    "timeline": [
+      {
+        "date": "2024-09-01",
+        "event": "Progress 61% (cert)",
+        "description": "Ahead of schedule"
+      }
+    ],
+    "covenants": {
+      "collateral": "OK",
+      "premium": "Paid",
+      "reinsurance": "On NIA's net (%)"
+    }
+  },
+  {
+    "id": "ADB2220",
+    "bondNumber": "ADB2220",
+    "uin": "UIN-2024-1099",
+    "contractor": "XYZ Construction",
+    "contractorId": "contractor-xyz-construction",
+    "beneficiary": "NHIDCL",
+    "progress": 46,
+    "lastUpdate": "2024-10-19",
+    "nextMilestone": "Commissioning",
+    "milestoneDueDate": "2024-11-21",
+    "delay": 29,
+    "riskBand": "Green",
+    "invoke": false,
+    "dispute": false,
+    "premium": "Overdue",
+    "collateral": "Insufficient",
+    "reinsurance": "On NIA's net (%)",
+    "productType": "Advance Bond",
+    "tenor": 18,
+    "claimPeriodRemaining": 248,
+    "woNumber": "WO-2024-1099",
+    "timeline": [
+      {
+        "date": "2024-10-19",
+        "event": "Progress 46% (cert)",
+        "description": "Behind schedule"
+      }
+    ],
+    "covenants": {
+      "collateral": "Pending",
+      "premium": "Paid",
+      "reinsurance": "On Reinsurance (%)"
+    }
+  },
+  {
+    "id": "BDB3179",
+    "bondNumber": "BDB3179",
+    "uin": "UIN-2024-1100",
+    "contractor": "Shapoorji Pallonji",
+    "contractorId": "contractor-shapoorji-pallonji",
+    "beneficiary": "NHAI",
+    "progress": 70,
+    "lastUpdate": "2024-09-30",
+    "nextMilestone": "Handover",
+    "milestoneDueDate": "2024-10-12",
+    "delay": -7,
+    "riskBand": "Amber",
+    "invoke": false,
+    "dispute": false,
+    "premium": "Overdue",
+    "collateral": "Pending",
+    "reinsurance": "On NIA's net (%)",
+    "productType": "Bid Bond",
+    "tenor": 48,
+    "claimPeriodRemaining": 74,
+    "woNumber": "WO-2024-1100",
+    "timeline": [
+      {
+        "date": "2024-09-30",
+        "event": "Progress 70% (cert)",
+        "description": "Ahead of schedule"
+      }
+    ],
+    "covenants": {
+      "collateral": "Insufficient",
+      "premium": "Overdue",
+      "reinsurance": "On NIA's net (%)"
+    }
+  }
+]

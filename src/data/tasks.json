@@ -1,0 +1,314 @@
+[
+  {
+    "id": "TASK-1001",
+    "title": "Follow up on Payment Delay - ABC Infrastructure",
+    "contractorId": "CTR-001",
+    "contractor": "ABC Infrastructure Ltd",
+    "status": "Not Started",
+    "priority": "High",
+    "assignee": "Rajesh Kumar",
+    "dueDate": "2025-10-25",
+    "createdAt": "2025-10-12",
+    "updatedAt": "2025-10-12",
+    "description": "Follow up on payment delay of ₹15 Cr. Schedule meeting with contractor.",
+    "alertId": "AL-011",
+    "exposure": 120.5,
+    "sla": 2,
+    "linkedAlert": {
+      "id": "AL-011",
+      "type": "Financial",
+      "trigger": "Payment Delay"
+    }
+  },
+  {
+    "id": "TASK-1002",
+    "title": "Review Site Shutdown - RITES Ltd",
+    "contractorId": "CTR-003",
+    "contractor": "RITES Limited",
+    "status": "In Progress",
+    "priority": "Critical",
+    "assignee": "Priya Sharma",
+    "dueDate": "2025-10-20",
+    "createdAt": "2025-10-09",
+    "updatedAt": "2025-10-15",
+    "description": "Review site shutdown order and coordinate with legal team for compliance.",
+    "alertId": "AL-019",
+    "exposure": 185.8,
+    "sla": 5,
+    "linkedAlert": {
+      "id": "AL-019",
+      "type": "Legal",
+      "trigger": "Site Shutdown"
+    }
+  },
+  {
+    "id": "TASK-1003",
+    "title": "Address Progress Lag - ABC Infrastructure",
+    "contractorId": "CTR-001",
+    "contractor": "ABC Infrastructure Ltd",
+    "status": "Info Requested",
+    "priority": "Medium",
+    "assignee": "Amit Patel",
+    "dueDate": "2025-10-22",
+    "createdAt": "2025-10-15",
+    "updatedAt": "2025-10-16",
+    "description": "Request detailed project timeline and material procurement schedule.",
+    "alertId": "AL-023",
+    "exposure": 120.5,
+    "sla": 7,
+    "linkedAlert": {
+      "id": "AL-023",
+      "type": "Operational",
+      "trigger": "Progress Lag"
+    }
+  },
+  {
+    "id": "TASK-1004",
+    "title": "Assess Credit Rating Impact - Adani Power",
+    "contractorId": "CTR-004",
+    "contractor": "Adani Power Limited",
+    "status": "In Progress",
+    "priority": "High",
+    "assignee": "Sanjay Mehta",
+    "dueDate": "2025-10-21",
+    "createdAt": "2025-10-08",
+    "updatedAt": "2025-10-14",
+    "description": "Assess impact of credit rating downgrade on bond portfolio.",
+    "alertId": "AL-027",
+    "exposure": 245.3,
+    "sla": 6,
+    "linkedAlert": {
+      "id": "AL-027",
+      "type": "Financial",
+      "trigger": "Credit Rating Downgrade"
+    }
+  },
+  {
+    "id": "TASK-1005",
+    "title": "Resolve Payment Delay - RITES Ltd",
+    "contractorId": "CTR-003",
+    "contractor": "RITES Limited",
+    "status": "Not Started",
+    "priority": "High",
+    "assignee": "Rajesh Kumar",
+    "dueDate": "2025-10-23",
+    "createdAt": "2025-10-05",
+    "updatedAt": "2025-10-05",
+    "description": "Follow up on payment delay of ₹22 Cr. Coordinate with finance team.",
+    "alertId": "AL-032",
+    "exposure": 185.8,
+    "sla": 4,
+    "linkedAlert": {
+      "id": "AL-032",
+      "type": "Financial",
+      "trigger": "Payment Delay"
+    }
+  },
+  {
+    "id": "TASK-1006",
+    "title": "Handle Contract Dispute - NHAI Projects",
+    "contractorId": "CTR-008",
+    "contractor": "NHAI Projects Ltd",
+    "status": "In Progress",
+    "priority": "Critical",
+    "assignee": "Vikram Singh",
+    "dueDate": "2025-10-18",
+    "createdAt": "2025-10-11",
+    "updatedAt": "2025-10-15",
+    "description": "Coordinate with legal team to resolve contract dispute with subcontractor.",
+    "alertId": "AL-034",
+    "exposure": 142.6,
+    "sla": 3,
+    "linkedAlert": {
+      "id": "AL-034",
+      "type": "Legal",
+      "trigger": "Contract Dispute"
+    }
+  },
+  {
+    "id": "TASK-1007",
+    "title": "Resolve Material Shortage - RITES Ltd",
+    "contractorId": "CTR-003",
+    "contractor": "RITES Limited",
+    "status": "Not Started",
+    "priority": "Medium",
+    "assignee": "Amit Patel",
+    "dueDate": "2025-10-26",
+    "createdAt": "2025-10-07",
+    "updatedAt": "2025-10-07",
+    "description": "Identify alternative cement suppliers to resolve material shortage.",
+    "alertId": "AL-038",
+    "exposure": 185.8,
+    "sla": 8,
+    "linkedAlert": {
+      "id": "AL-038",
+      "type": "Operational",
+      "trigger": "Material Shortage"
+    }
+  },
+  {
+    "id": "TASK-1008",
+    "title": "Follow up on Payment - IRCON International",
+    "contractorId": "CTR-006",
+    "contractor": "IRCON International",
+    "status": "Not Started",
+    "priority": "High",
+    "assignee": "Rajesh Kumar",
+    "dueDate": "2025-10-24",
+    "createdAt": "2025-10-13",
+    "updatedAt": "2025-10-13",
+    "description": "Follow up on payment delay of ₹8 Cr in Road Project.",
+    "alertId": "AL-041",
+    "exposure": 95.4,
+    "sla": 1,
+    "linkedAlert": {
+      "id": "AL-041",
+      "type": "Financial",
+      "trigger": "Payment Delay"
+    }
+  },
+  {
+    "id": "TASK-1009",
+    "title": "Monitor Progress - NHAI Projects",
+    "contractorId": "CTR-008",
+    "contractor": "NHAI Projects Ltd",
+    "status": "In Progress",
+    "priority": "Medium",
+    "assignee": "Priya Sharma",
+    "dueDate": "2025-10-27",
+    "createdAt": "2025-10-10",
+    "updatedAt": "2025-10-14",
+    "description": "Monitor project progress and weather impact on timeline.",
+    "alertId": "AL-044",
+    "exposure": 142.6,
+    "sla": 9,
+    "linkedAlert": {
+      "id": "AL-044",
+      "type": "Operational",
+      "trigger": "Progress Lag"
+    }
+  },
+  {
+    "id": "TASK-1010",
+    "title": "Review Credit Rating - Reliance Infrastructure",
+    "contractorId": "CTR-009",
+    "contractor": "Reliance Infrastructure",
+    "status": "Not Started",
+    "priority": "High",
+    "assignee": "Sanjay Mehta",
+    "dueDate": "2025-10-25",
+    "createdAt": "2025-10-06",
+    "updatedAt": "2025-10-06",
+    "description": "Review credit rating downgrade and assess portfolio impact.",
+    "alertId": "AL-047",
+    "exposure": 178.3,
+    "sla": 2,
+    "linkedAlert": {
+      "id": "AL-047",
+      "type": "Financial",
+      "trigger": "Credit Rating Downgrade"
+    }
+  },
+  {
+    "id": "TASK-1011",
+    "title": "Address Environmental Violation - Essar Projects",
+    "contractorId": "CTR-011",
+    "contractor": "Essar Projects India",
+    "status": "Not Started",
+    "priority": "Critical",
+    "assignee": "Vikram Singh",
+    "dueDate": "2025-10-19",
+    "createdAt": "2025-10-14",
+    "updatedAt": "2025-10-14",
+    "description": "Coordinate with environmental compliance team for violation notice.",
+    "alertId": "AL-050",
+    "exposure": 88.7,
+    "sla": 1,
+    "linkedAlert": {
+      "id": "AL-050",
+      "type": "Legal",
+      "trigger": "Environmental Violation"
+    }
+  },
+  {
+    "id": "TASK-1012",
+    "title": "Resolve Material Shortage - GVK Power",
+    "contractorId": "CTR-012",
+    "contractor": "GVK Power & Infrastructure",
+    "status": "Not Started",
+    "priority": "Medium",
+    "assignee": "Amit Patel",
+    "dueDate": "2025-10-28",
+    "createdAt": "2025-10-16",
+    "updatedAt": "2025-10-16",
+    "description": "Identify alternative steel suppliers for power transmission project.",
+    "alertId": "AL-055",
+    "exposure": 156.2,
+    "sla": 10,
+    "linkedAlert": {
+      "id": "AL-055",
+      "type": "Operational",
+      "trigger": "Material Shortage"
+    }
+  },
+  {
+    "id": "TASK-1013",
+    "title": "Follow up on Payment - Essar Projects",
+    "contractorId": "CTR-011",
+    "contractor": "Essar Projects India",
+    "status": "In Progress",
+    "priority": "High",
+    "assignee": "Rajesh Kumar",
+    "dueDate": "2025-10-22",
+    "createdAt": "2025-10-03",
+    "updatedAt": "2025-10-13",
+    "description": "Follow up on payment delay of ₹10 Cr. Overdue by 50 days.",
+    "alertId": "AL-058",
+    "exposure": 88.7,
+    "sla": 7,
+    "linkedAlert": {
+      "id": "AL-058",
+      "type": "Financial",
+      "trigger": "Payment Delay"
+    }
+  },
+  {
+    "id": "TASK-1014",
+    "title": "Monitor Progress - IRCON International",
+    "contractorId": "CTR-006",
+    "contractor": "IRCON International",
+    "status": "Not Started",
+    "priority": "Medium",
+    "assignee": "Priya Sharma",
+    "dueDate": "2025-10-29",
+    "createdAt": "2025-10-17",
+    "updatedAt": "2025-10-17",
+    "description": "Monitor project progress and address labor shortage issue.",
+    "alertId": "AL-061",
+    "exposure": 95.4,
+    "sla": 11,
+    "linkedAlert": {
+      "id": "AL-061",
+      "type": "Operational",
+      "trigger": "Progress Lag"
+    }
+  },
+  {
+    "id": "TASK-1015",
+    "title": "Quarterly Review - L&T Construction",
+    "contractorId": "CTR-005",
+    "contractor": "L&T Construction",
+    "status": "Completed",
+    "priority": "Low",
+    "assignee": "Sanjay Mehta",
+    "dueDate": "2025-10-15",
+    "createdAt": "2025-09-30",
+    "updatedAt": "2025-10-15",
+    "description": "Complete quarterly review of L&T Construction portfolio.",
+    "alertId": null,
+    "exposure": 320.7,
+    "sla": 0,
+    "linkedAlert": null
+  }
+]
+

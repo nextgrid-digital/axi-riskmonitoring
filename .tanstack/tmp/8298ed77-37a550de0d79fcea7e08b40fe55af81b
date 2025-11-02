@@ -1,0 +1,10 @@
+import { createFileRoute } from '@tanstack/react-router'
+import { SavedPortfolio } from '@/features/saved-portfolio'
+
+export const Route = createFileRoute('/_authenticated/risk-monitoring/project/saved-portfolio/')({
+  component: SavedPortfolioPage,
+})
+
+function SavedPortfolioPage() {
+  return <SavedPortfolio />
+}

@@ -1,0 +1,40 @@
+{
+  "case_id": "MC-2025-001",
+  "bond_id": "#1001",
+  "project_name": "ABC Holdings Infra : Rafting works",
+  "status": "At Risk",
+  "metrics": {
+    "delay_days": 18,
+    "ld_risk": 2.5,
+    "exposure": 145,
+    "limit": 200,
+    "next_milestone_date": "2025-10-18"
+  },
+  "progress_trend": [
+    {"week": "Sep W1", "progress": 20},
+    {"week": "Sep W2", "progress": 35},
+    {"week": "Sep W3", "progress": 50},
+    {"week": "Oct W1", "progress": 62}
+  ],
+  "risk_distribution": [
+    {"type": "Payment Delays", "value": 45},
+    {"type": "Site Issues", "value": 25},
+    {"type": "Collateral", "value": 15},
+    {"type": "Other", "value": 15}
+  ],
+  "financials": {
+    "premium": "Due",
+    "collateral": "OK",
+    "exposure_limit": "145/200",
+    "claim_period_end": "31-Mar-26"
+  },
+  "activity_log": [
+    {"date": "2025-10-12", "actor": "Adesh Singh", "action": "Submitted extension request"},
+    {"date": "2025-10-14", "actor": "Checker", "action": "Approved extension"},
+    {"date": "2025-10-16", "actor": "System", "action": "Milestone delay auto-flagged"}
+  ],
+  "linked_cases": [
+    {"type": "Dispute", "id": "D-118"},
+    {"type": "Invocation", "id": "IR-42"}
+  ]
+}

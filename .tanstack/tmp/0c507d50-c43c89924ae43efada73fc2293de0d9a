@@ -1,0 +1,13 @@
+import { createFileRoute } from '@tanstack/react-router'
+
+export const Route = createFileRoute(
+  '/_authenticated/risk-monitoring/customer-bond-portfolio/',
+)({
+  component: RouteComponent,
+})
+
+function RouteComponent() {
+  return (
+    <div>Hello "/_authenticated/risk-monitoring/customer-bond-portfolio/"!</div>
+  )
+}

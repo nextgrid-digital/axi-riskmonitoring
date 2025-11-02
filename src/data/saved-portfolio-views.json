@@ -1,0 +1,36 @@
+[
+  {
+    "id": "at-risk-bonds",
+    "name": "At Risk Bonds",
+    "isPredefined": true,
+    "filters": {
+      "riskBand": ["Red"],
+      "progressStatus": ["At Risk"]
+    }
+  },
+  {
+    "id": "delayed-projects",
+    "name": "Delayed Projects",
+    "isPredefined": true,
+    "filters": {
+      "progressStatus": ["Delayed"]
+    }
+  },
+  {
+    "id": "premium-overdue",
+    "name": "Premium Overdue",
+    "isPredefined": true,
+    "filters": {
+      "premiumPaid": ["Overdue"]
+    }
+  },
+  {
+    "id": "low-collateral",
+    "name": "Low Collateral",
+    "isPredefined": true,
+    "filters": {
+      "collateralOk": false
+    }
+  }
+]
+

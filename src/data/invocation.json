@@ -1,0 +1,56 @@
+{
+  "case_id": "MC-2025-001",
+  "bond_id": "bond-1001",
+  "claim_window": {
+    "last_permissible_date": "2026-03-31",
+    "notice_period": "7 days",
+    "holiday_rules": "applied"
+  },
+  "document_checklist": [
+    {
+      "name": "Beneficiary demand",
+      "status": "Received"
+    },
+    {
+      "name": "Contract breach evidence",
+      "status": "Pending"
+    },
+    {
+      "name": "Site reports & photos",
+      "status": "Received"
+    },
+    {
+      "name": "Certificates",
+      "status": "Pending"
+    }
+  ],
+  "monetary_accounting": {
+    "lds": 4.5,
+    "setoffs": 1.2,
+    "net_claimable": 3.3,
+    "salvage_plan": "Recover through subcontractor margin"
+  },
+  "actions": [
+    "Issue cure notice",
+    "Appoint surveyor",
+    "Draft response",
+    "Trigger recovery playbook"
+  ],
+  "timeline": [
+    {
+      "date": "2025-09-30",
+      "event": "Beneficiary issued delay notice"
+    },
+    {
+      "date": "2025-10-05",
+      "event": "UW triggered invocation readiness"
+    },
+    {
+      "date": "2025-10-12",
+      "event": "Contractor submitted response"
+    }
+  ],
+  "status": "Defaults Detected",
+  "created_date": "2024-10-10",
+  "updated_date": "2024-10-15"
+}
