@@ -1,4 +1,9 @@
 import { Main } from '@/components/layout/main'
+import { Header } from '@/components/layout/header'
+import { Search } from '@/components/search'
+import { ThemeSwitch } from '@/components/theme-switch'
+import { ConfigDrawer } from '@/components/config-drawer'
+import { ProfileDropdown } from '@/components/profile-dropdown'
 import { ContractorHeader } from './components/contractor-header'
 import { ContractorTabs } from './components/contractor-tabs'
 import { ContractorExposureChart } from './components/contractor-exposure-chart'
@@ -14,7 +19,7 @@ import { ArrowLeft } from 'lucide-react'
 import { Button } from '@/components/ui/button'
 
 export function Contractor() {
-  const { id } = useParams({ from: '/_authenticated/contractor/$id' })
+  const { id } = useParams({ from: '/_authenticated/contractor/$id/' })
   const navigate = useNavigate()
 
   const contractor = getContractorById(id)

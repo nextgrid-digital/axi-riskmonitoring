@@ -1,4 +1,3 @@
-import { formatCurrency } from '@/lib/utils'
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card'
 import { TrendingUp, Users, Bell, ListTodo, AlertCircle } from 'lucide-react'
 import type { PortfolioMetrics } from '../types'

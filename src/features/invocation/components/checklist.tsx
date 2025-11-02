@@ -1,6 +1,12 @@
 import { Badge } from '@/components/ui/badge'
 import { CheckCircle2, Clock, Circle } from 'lucide-react'
-import type { ChecklistItem } from '../types'
+import type { DocumentChecklistItem } from '../types'
+
+interface ChecklistItem {
+  item: string
+  status: string
+  date?: string
+}
 
 interface InvocationChecklistProps {
   checklist: ChecklistItem[]

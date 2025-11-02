@@ -1,6 +1,5 @@
 import type { SavedView } from '../types'
 import predefinedViewsData from '@/data/saved-portfolio-views.json'
-import { RiskBand, ProgressStatus, PremiumStatus } from '@/features/bonds/types'
 
 const STORAGE_PREFIX = 'saved-portfolio-view-'
 
@@ -12,14 +11,14 @@ export function loadPredefinedViews(): SavedView[] {
     id: view.id,
     name: view.name,
     filters: {
-      progressStatus: (view.filters?.progressStatus || []).map((s: string) => s as ProgressStatus),
-      milestoneDue: view.filters?.milestoneDue || [],
-      riskBand: (view.filters?.riskBand || []).map((r: string) => r as RiskBand),
-      productTenor: view.filters?.productTenor || [],
-      claimPeriodRemaining: view.filters?.claimPeriodRemaining || [],
-      collateralOk: view.filters?.collateralOk ?? null,
-      premiumPaid: (view.filters?.premiumPaid || []).map((p: string) => p as PremiumStatus),
-      reinsuranceOk: view.filters?.reinsuranceOk ?? null,
+      beneficiary: view.filters?.beneficiary || [],
+      industry: view.filters?.industry || [],
+      state: view.filters?.state || [],
+      bondType: view.filters?.bondType || [],
+      tenor: view.filters?.tenor || view.filters?.productTenor || [],
+      exposureAmount: view.filters?.exposureAmount || [],
+      internalRating: view.filters?.internalRating || [],
+      reinsurance: view.filters?.reinsurance || (view.filters?.reinsuranceOk ? ['OK'] : []),
     },
     isPredefined: true,
   }))
